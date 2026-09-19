@@ -1,4 +1,4 @@
-/**
+﻿/**
  * COMPANY LEAD FINDER
  * ---------------------------------------------------------------------------
  * Finds small, early-stage, US-based companies that are likely hiring and
@@ -31,7 +31,7 @@ var SETTINGS = {
   // ---- SEC EDGAR Form D (filtering settings now live in the GitHub repo:
   //      scripts/edgar.js) ----
   // >>> REPLACE YOUR-GITHUB-USERNAME with your GitHub username <<<
-  EDGAR_JSON_URL: 'https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/company-lead-finder/main/data/edgar-latest.json',
+  EDGAR_JSON_URL: 'https://raw.githubusercontent.com/M-ell-o/company-lead-finder/main/data/edgar-latest.json',
   EDGAR_MAX_DATA_AGE_DAYS: 3          // warn in the Run Log if the file is older than this
 };
 
