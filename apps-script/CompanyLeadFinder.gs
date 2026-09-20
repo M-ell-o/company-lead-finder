@@ -25,12 +25,14 @@ var SETTINGS = {
   // ---- Y Combinator ----
   YC_MAX_TEAM_SIZE: 50,               // "small" = this many people or fewer
   YC_INCLUDE_UNKNOWN_TEAM_SIZE: true, // keep companies that list no team size
+  YC_MIN_BATCH: 'Winter 2024',        // oldest YC batch to include, e.g. 'Summer 2023'
+                                      // (season = Winter/Spring/Summer/Fall + year).
+                                      // Leave '' to include every batch.
   YC_FETCH_PROFILE_PAGES: true,       // look up founder names + founding year
   YC_MAX_NEW_ROWS_PER_RUN: 100,       // newest batches first; rest next run
 
   // ---- SEC EDGAR Form D (filtering settings now live in the GitHub repo:
   //      scripts/edgar.js) ----
-  // >>> REPLACE YOUR-GITHUB-USERNAME with your GitHub username <<<
   EDGAR_JSON_URL: 'https://raw.githubusercontent.com/M-ell-o/company-lead-finder/main/data/edgar-latest.json',
   EDGAR_MAX_DATA_AGE_DAYS: 3          // warn in the Run Log if the file is older than this
 };
@@ -54,8 +56,15 @@ function pullYC() {
     var companies = JSON.parse(res.getContentText());
     if (!Array.isArray(companies)) throw new Error('YC feed was not a list as expected.');
 
-    // 2. Keep US-based, small, active, for-profit companies.
+    // 2. Keep US-based, small, active, for-profit companies from recent batches.
+    //    (Done before the profile lookups so old companies never cost a request.)
+    var minBatchRank = ycBatchRank_(SETTINGS.YC_MIN_BATCH); // 0 if blank = no cutoff
+    if (SETTINGS.YC_MIN_BATCH && minBatchRank === 0) {
+      throw new Error('YC_MIN_BATCH "' + SETTINGS.YC_MIN_BATCH + '" is not valid. ' +
+        'Use a season and year such as "Winter 2024", or leave it blank.');
+    }
     var candidates = companies.filter(function (c) {
+      if (ycBatchRank_(c.batch) < minBatchRank) return false; // older batch, or "Unspecified"
       var isUS = (c.regions || []).indexOf('United States of America') !== -1 ||
                  /,\s*USA\b/.test(c.all_locations || '');
       var size = c.team_size;

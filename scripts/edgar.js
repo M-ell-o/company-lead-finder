@@ -36,6 +36,8 @@ const US_STATES = ['AL','AK','AZ','AR','CA','CO','CT','DE','DC','FL','GA','HI','
 
 const EDGAR_SEARCH_URL = 'https://efts.sec.gov/LATEST/search-index';
 const OUTPUT_FILE = path.join(__dirname, '..', 'data', 'edgar-latest.json');
+const SEEN_FILE = path.join(__dirname, '..', 'data', 'seen-accessions.json'); // filings already opened
+const SEEN_KEEP_DAYS = 7; // forget seen filings older than this
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -191,35 +193,68 @@ async function main() {
       fileDate: s.file_date, location: (s.biz_locations && s.biz_locations[0]) || '' });
   });
   const candidateCount = filings.length;
-  filings = filings.slice(0, SETTINGS.EDGAR_MAX_FILINGS_TO_OPEN);
 
-  // 3. Open each filing's XML (8 at a time, 1 second apart; SEC's limit is 10 per second).
-  const rows = [];
+  // 2b. Skip filings we already opened in an earlier run. We only trust the
+  //     "seen" list if last run's results file is also present, because the rows
+  //     for already-seen filings are carried forward from that file (see step 4).
+  const previous = readJson(OUTPUT_FILE);
+  const seenData = readJson(SEEN_FILE);
+  const canUseSeen = !!(previous && Array.isArray(previous.rows) &&
+    seenData && typeof seenData === 'object' && !Array.isArray(seenData));
+  const seen = canUseSeen ? seenData : {};
+  const alreadySeen = filings.filter((f) => seen[f.adsh]).length;
+  filings = filings.filter((f) => !seen[f.adsh]).slice(0, SETTINGS.EDGAR_MAX_FILINGS_TO_OPEN);
+
+  // 3. Open each new filing's XML (8 at a time, 1 second apart; SEC's limit is 10 per second).
+  const newRows = [];
+  const newlySeen = {};
   let opened = 0, unreadable = 0;
   for (let i = 0; i < filings.length; i += 8) {
     const chunk = filings.slice(i, i + 8);
     const results = await secFetchAll(chunk.map(filingXmlUrl));
     for (let j = 0; j < chunk.length; j++) {
       opened++;
-      if (results[j].code !== 200) { unreadable++; continue; }
+      if (results[j].code !== 200) { unreadable++; continue; } // not marked seen: retried next run
       try {
         const row = parseFormD(results[j].text, chunk[j]);
-        if (row) { row.fileDate = chunk[j].fileDate; row.accession = chunk[j].adsh; rows.push(row); }
+        if (row) { row.fileDate = chunk[j].fileDate; row.accession = chunk[j].adsh; newRows.push(row); }
+        newlySeen[chunk[j].adsh] = chunk[j].fileDate; // read OK, whether or not it passed the filters
       } catch (e) { unreadable++; }
     }
     await sleep(1000);
   }
 
+  // 4. Results file = rows from earlier runs still inside the window + this run's new rows.
+  //    (Without this, a Sheet run between two Action runs would miss earlier finds.)
+  const keptRows = canUseSeen
+    ? previous.rows.filter((r) => r && r.accession && r.fileDate >= startStr)
+    : [];
+  const haveAccession = new Set(newRows.map((r) => r.accession));
+  const rows = keptRows.filter((r) => !haveAccession.has(r.accession)).concat(newRows);
+
+  // 5. Remember what we've seen, forgetting anything older than 7 days to keep the file small.
+  const cutoff = formatDateET(new Date(end.getTime() - SEEN_KEEP_DAYS * 24 * 3600 * 1000));
+  const merged = Object.assign({}, seen, newlySeen);
+  const seenOut = {};
+  Object.keys(merged).sort().forEach((k) => { if (merged[k] >= cutoff) seenOut[k] = merged[k]; });
+
   const summary = 'Window ' + startStr + ' to ' + endStr + ': ' + total + ' Form D filings found; ' +
-    candidateCount + ' looked like possible operating companies; opened ' + opened +
-    '; ' + rows.length + ' passed filters' +
-    (unreadable ? '; ' + unreadable + ' filings could not be read' : '') + '.';
+    candidateCount + ' looked like possible operating companies; ' + alreadySeen +
+    ' already processed in earlier runs (skipped); opened ' + opened +
+    '; ' + newRows.length + ' new passed filters; ' + rows.length + ' rows in file' +
+    (unreadable ? '; ' + unreadable + ' filings could not be read (will retry)' : '') + '.';
 
   fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
+  fs.writeFileSync(SEEN_FILE, JSON.stringify(seenOut, null, 1) + '\n');
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify({
     windowStart: startStr, windowEnd: endStr, totalFilings: total, summary: summary, rows: rows
   }, null, 1) + '\n');
   console.log(summary);
+}
+
+/** Reads a JSON file; returns null if it is missing or damaged. */
+function readJson(file) {
+  try { return JSON.parse(fs.readFileSync(file, 'utf8')); } catch (e) { return null; }
 }
 
 main().catch((err) => {
