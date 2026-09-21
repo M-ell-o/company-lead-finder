@@ -1,7 +1,86 @@
 {
  "windowStart": "2026-09-19",
  "windowEnd": "2026-09-21",
- "totalFilings": 0,
- "summary": "Window 2026-09-19 to 2026-09-21: 0 Form D filings found; 0 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 0 rows in file.",
- "rows": []
+ "totalFilings": 29,
+ "summary": "Window 2026-09-19 to 2026-09-21: 29 Form D filings found; 9 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 9; 6 new passed filters; 6 rows in file.",
+ "rows": [
+  {
+   "source": "SEC Form D",
+   "company": "Credit Gnomes, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "David Haldi (Executive Officer/Director); G. Scott Greenburg (Executive Officer)",
+   "location": "Liberty Lake, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2152519/000215251926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering Indefinite, $200,000 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002152519-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Laser Light Holdings, Ltd",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Robert Haywood Brumley II (Executive Officer/Director/Promoter); Fletcher Warner Brumley (Executive Officer); Robert Haywood Brumley III (Executive Officer); Michael John Reedy (Executive Officer); Marble Arch Partners (Promoter)",
+   "location": "Hamilton",
+   "link": "https://www.sec.gov/Archives/edgar/data/2151003/000215100326000001/",
+   "industry": "Telecommunications",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $150,000,000, $277,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002151003-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Monocacy Therapeutics Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Suman Vodnala (Executive Officer); Shashank Patel (Executive Officer/Director)",
+   "location": "Monrovia, MD",
+   "link": "https://www.sec.gov/Archives/edgar/data/2137361/000213736126000005/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $49, $49 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002137361-26-000005"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Inquire, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Anthony Beverina (Executive Officer/Director); Lamont Thurston (Executive Officer/Director); Austin Erickson (Executive Officer)",
+   "location": "Falls Church, VA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2105295/000210529526000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $5,000,000, $300,000 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002105295-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Disputed, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Shawn Kelley (Executive Officer/Director); Andrew Hart (Executive Officer/Director)",
+   "location": "Washougal, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2068167/000206816726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering Indefinite, $1,065,000 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002068167-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "3Helix, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Michael Kirkness (Executive Officer/Director); Nalini D Kelly (Director); Michael Fugman (Director); Noah Nasser (Director); Michael Yu (Director)",
+   "location": "Salt Lake City, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2001622/000200162226000003/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $10,000,000, $7,835,028 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002001622-26-000003"
+  }
+ ]
 }
