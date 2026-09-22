@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-20",
  "windowEnd": "2026-09-22",
- "totalFilings": 272,
- "summary": "Window 2026-09-20 to 2026-09-22: 272 Form D filings found; 66 looked like possible operating companies; 57 already processed in earlier runs (skipped); opened 9; 5 new passed filters; 30 rows in file.",
+ "totalFilings": 337,
+ "summary": "Window 2026-09-20 to 2026-09-22: 337 Form D filings found; 82 looked like possible operating companies; 66 already processed in earlier runs (skipped); opened 16; 5 new passed filters; 35 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -393,6 +393,71 @@
    "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $2,000,000, $500,000 sold so far; Corporation.",
    "fileDate": "2026-09-22",
    "accession": "0001140361-26-037263"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Bioinsights, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Travis Bond (Executive Officer/Director); Lisa Bond (Director); Kinglsey Charles (Director)",
+   "location": "Lutz, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156231/000215623126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $7,897,697, $2,747,698 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002156231-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "License Corp",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Jonathan Rose (Executive Officer)",
+   "location": "Jackson, WY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155842/000215584226000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering Indefinite, $13,350,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002155842-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Brite Bird LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Brigham Castillow (Executive Officer/Director/Promoter); Nathan Roberts (Director/Promoter); Keith Peeters (Director/Promoter)",
+   "location": "Mesa, AZ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154102/000215410226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $211,853, $211,853 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-22",
+   "accession": "0002154102-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Liife, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Jamie Moses (Executive Officer)",
+   "location": "Marlton, NJ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2053812/000205381226000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering Indefinite, $2,246,020 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002053812-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Lockchain Corp.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Andrew Howard (Executive Officer/Director); Denielle Pemberton-Heard (Director); Steven Kokinos (Director); Sep Alavi (Director); Josh Schertzer (Director)",
+   "location": "Athens, GA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1962104/000196210426000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $3,000,000, $1,999,993 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001962104-26-000002"
   }
  ]
 }
