@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-20",
  "windowEnd": "2026-09-22",
- "totalFilings": 200,
- "summary": "Window 2026-09-20 to 2026-09-22: 200 Form D filings found; 57 looked like possible operating companies; 56 already processed in earlier runs (skipped); opened 1; 1 new passed filters; 25 rows in file.",
+ "totalFilings": 272,
+ "summary": "Window 2026-09-20 to 2026-09-22: 272 Form D filings found; 66 looked like possible operating companies; 57 already processed in earlier runs (skipped); opened 9; 5 new passed filters; 30 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -328,6 +328,71 @@
    "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $5,000,000, $1,472,500 sold so far; Corporation.",
    "fileDate": "2026-09-21",
    "accession": "0002155451-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "KYMTC Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Hugo Alejandro Gallego Zuniga (Executive Officer)",
+   "location": "Spring Hill, TN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156283/000215628326000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering Indefinite, $5,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002156283-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Dr. Better Sleep, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Howard Sommers (Executive Officer/Director); Matthew Abeyta (Executive Officer/Director); David Diaz (Director)",
+   "location": "Scottsdale, AZ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155822/000215582226000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $335,000, $20,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002155822-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Seattle Neurosound Solutions, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "David W Newell (Executive Officer/Director/Promoter)",
+   "location": "Seattle, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155763/000215576326000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $5,000,000, $100,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0002155763-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Westwin Elements Inc",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "KaLeigh Long (Executive Officer/Director); Bob Horsewell (Director); Kacey Butcher (Director); Dennis Muilenburg (Director); Jeemes Akers (Director); Michael Cox (Director)",
+   "location": "Oklahoma City, OK",
+   "link": "https://www.sec.gov/Archives/edgar/data/1952008/000195200826000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $15,000,000, $1,000,000 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001952008-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "OKEANOS HOLDINGS, INC.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Florencio Nicolas Gomez-Cuetara, IV (Director/Executive Officer); Florencio Javier Gomez-Cuetara, III (Executive Officer/Director); Larry Wyman (Director); Richard Gallagher, Jr. (Director); Russel Petrie, M.D. (Director); Pedro Suarez (Director)",
+   "location": "Miami, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/1818685/000114036126037263/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $2,000,000, $500,000 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001140361-26-037263"
   }
  ]
 }
