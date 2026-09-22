@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-09-19",
- "windowEnd": "2026-09-21",
- "totalFilings": 199,
- "summary": "Window 2026-09-19 to 2026-09-21: 199 Form D filings found; 56 looked like possible operating companies; 9 already processed in earlier runs (skipped); opened 47; 18 new passed filters; 24 rows in file.",
+ "windowStart": "2026-09-20",
+ "windowEnd": "2026-09-22",
+ "totalFilings": 200,
+ "summary": "Window 2026-09-20 to 2026-09-22: 200 Form D filings found; 57 looked like possible operating companies; 56 already processed in earlier runs (skipped); opened 1; 1 new passed filters; 25 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -315,6 +315,19 @@
    "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $100,000,000, $61,510,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-09-21",
    "accession": "0000897423-26-000123"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Oberon Technology Holdings Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Sandeep Kella (Executive Officer/Director); Anton Zietsman (Executive Officer/Director)",
+   "location": "Santa Monica, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155451/000215545126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-21 (recent fundraising); offering $5,000,000, $1,472,500 sold so far; Corporation.",
+   "fileDate": "2026-09-21",
+   "accession": "0002155451-26-000001"
   }
  ]
 }
