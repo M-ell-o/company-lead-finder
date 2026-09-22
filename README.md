@@ -6,3 +6,4 @@ Finds small, early-stage US companies that are likely hiring and writes them int
 - `scripts/edgar.js` - fetches recent SEC Form D filings (needs a real User-Agent, which Google Apps Script cannot send).
 - `.github/workflows/edgar.yml` - runs the script every 6 hours and saves `data/edgar-latest.json`.
 - Setup: add a repository *variable* named `SEC_USER_AGENT` (your name and email) under Settings > Secrets and variables > Actions > Variables.
+
