@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-20",
  "windowEnd": "2026-09-22",
- "totalFilings": 337,
- "summary": "Window 2026-09-20 to 2026-09-22: 337 Form D filings found; 82 looked like possible operating companies; 66 already processed in earlier runs (skipped); opened 16; 5 new passed filters; 35 rows in file.",
+ "totalFilings": 438,
+ "summary": "Window 2026-09-20 to 2026-09-22: 438 Form D filings found; 94 looked like possible operating companies; 77 already processed in earlier runs (skipped); opened 17; 4 new passed filters; 39 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -458,6 +458,58 @@
    "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $3,000,000, $1,999,993 sold so far; Corporation.",
    "fileDate": "2026-09-22",
    "accession": "0001962104-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Lost In Mandala, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Deepa Chipalu Joshi (Director)",
+   "location": "Rancho Palos Verdes, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2142818/000214281826000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $4,000,000, $100,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-22",
+   "accession": "0002142818-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Salty AI Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "James Hall (Executive Officer/Director); Mungo Wilson (Director); Ash Zaki (Director); Adrian Hummel (Executive Officer)",
+   "location": "Park City, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/1911715/000191171526000004/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $3,999,999, $3,999,998 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001911715-26-000004"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Salty AI Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "James Hall (Executive Officer/Director); Mungo Wilson (Director); Ash Zaki (Director); Adrian Hummel (Executive Officer)",
+   "location": "Park City, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/1911715/000191171526000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $4,500,000, $4,117,983 sold so far; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001911715-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Rock Fiber, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Allan J Tulp (Executive Officer)",
+   "location": "Houston, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2035796/000137647426000614/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $3,500,000, $3,494,028 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-22",
+   "accession": "0001376474-26-000614"
   }
  ]
 }
