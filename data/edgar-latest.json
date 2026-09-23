@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-21",
  "windowEnd": "2026-09-23",
- "totalFilings": 495,
- "summary": "Window 2026-09-21 to 2026-09-23: 495 Form D filings found; 125 looked like possible operating companies; 118 already processed in earlier runs (skipped); opened 7; 3 new passed filters; 52 rows in file.",
+ "totalFilings": 577,
+ "summary": "Window 2026-09-21 to 2026-09-23: 577 Form D filings found; 135 looked like possible operating companies; 125 already processed in earlier runs (skipped); opened 10; 5 new passed filters; 57 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -679,6 +679,71 @@
    "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $5,000,000, $4,000,000 sold so far; revenue: $1,000,001 - $5,000,000; Corporation.",
    "fileDate": "2026-09-23",
    "accession": "0002132032-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Happy Camper Distilling Co.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Dustin Thomas Rall (Executive Officer/Director/Promoter)",
+   "location": "Fort Worth, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156850/000215685026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $400,000, $335,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0002156850-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Restara Medical, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Anthony Cruz (Executive Officer)",
+   "location": "Fayetteville, AR",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156770/000215677026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $500,000, $500,000 sold so far; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0002156770-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Kiddieprise LI LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Stefanie Tak-Yee Li (Executive Officer)",
+   "location": "Brooklyn, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156564/000215656426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $500,000, $500,000 sold so far; revenue: $1,000,001 - $5,000,000; Limited Liability Company.",
+   "fileDate": "2026-09-23",
+   "accession": "0002156564-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "DomeBridge AZ LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Umberto Ricardo Espinosa (Executive Officer/Director)",
+   "location": "Evergreen, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154134/000215413426000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $150,000,000, $817,500 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-23",
+   "accession": "0002154134-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Caspian Therapeutics, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Robert H. Spencer (Executive Officer); Troy E. Wilson (Director); Spike Loy (Director)",
+   "location": "San Diego, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156247/000123191926001219/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $50,000,000, $50,000,000 sold so far; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0001231919-26-001219"
   }
  ]
 }
