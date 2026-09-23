@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-21",
  "windowEnd": "2026-09-23",
- "totalFilings": 445,
- "summary": "Window 2026-09-21 to 2026-09-23: 445 Form D filings found; 118 looked like possible operating companies; 99 already processed in earlier runs (skipped); opened 19; 10 new passed filters; 49 rows in file.",
+ "totalFilings": 495,
+ "summary": "Window 2026-09-21 to 2026-09-23: 495 Form D filings found; 125 looked like possible operating companies; 118 already processed in earlier runs (skipped); opened 7; 3 new passed filters; 52 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -640,6 +640,45 @@
    "why": "Filed SEC Form D on 2026-09-22 (recent fundraising); offering $150,000, $25,000 sold so far; revenue: No Revenues; Corporation.",
    "fileDate": "2026-09-22",
    "accession": "0002154951-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "BuiltOn Trades Holding Co",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Zachary Lee Hansen (Executive Officer); MCCAIN CLARK CROW (Executive Officer)",
+   "location": "Sheridan, WY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156615/000215661526000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $250,000, $25,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0002156615-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Naveiyra Holdings, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Aditya Ramakrishnan Narayanan (Executive Officer/Director); Anish Reddy Ganga (Executive Officer)",
+   "location": "Atlanta, GA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2150294/000215029426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $500,000, $20,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0002150294-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Titan OS Inc",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Arjun Sirrah (Executive Officer)",
+   "location": "Old Greenwich, CT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2132032/000213203226000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $5,000,000, $4,000,000 sold so far; revenue: $1,000,001 - $5,000,000; Corporation.",
+   "fileDate": "2026-09-23",
+   "accession": "0002132032-26-000003"
   }
  ]
 }
