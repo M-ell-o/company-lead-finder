@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-22",
  "windowEnd": "2026-09-24",
- "totalFilings": 628,
- "summary": "Window 2026-09-22 to 2026-09-24: 628 Form D filings found; 141 looked like possible operating companies; 121 already processed in earlier runs (skipped); opened 20; 9 new passed filters; 62 rows in file.",
+ "totalFilings": 710,
+ "summary": "Window 2026-09-22 to 2026-09-24: 710 Form D filings found; 166 looked like possible operating companies; 141 already processed in earlier runs (skipped); opened 25; 8 new passed filters; 70 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -809,6 +809,110 @@
    "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $250,000, $50,000 sold so far; Corporation.",
    "fileDate": "2026-09-24",
    "accession": "0001888204-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Footnote FM, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Daniel O'Connell (Executive Officer/Director/Promoter)",
+   "location": "Seattle, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156993/000215699326000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $500,000, $12,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156993-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ParentConnect Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Meera Sinha (Executive Officer/Director); Emma Huntley (Executive Officer/Director)",
+   "location": "Evanston, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156789/000215678926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $750,000, $420,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156789-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "VoiceIt Technologies, Inc dba EnQuanta",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Noel J Grover (Executive Officer/Director); Scott Schnorrenberg (Executive Officer/Director); Joseph Helwig (Executive Officer/Director); Bradley Pedersen (Executive Officer); Bradley Erickson (Director); Michael Davidson (Director)",
+   "location": "Eden Prairie, MN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156635/000215663526000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $5,000,000, $585,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156635-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Path Power, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Zachary Judkins (Executive Officer/Director); Jack Peurach (Director)",
+   "location": "Berkeley, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156622/000215662226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $11,681,997, $11,681,997 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156622-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Swift Cardiovascular, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Jeffrey Harold Lawson (Executive Officer/Director); Kemal Vincent Schankereli (Director); Howard Vincent Kelly (Director); Richard Francis Murphy (Executive Officer); Jospeh Blakely Long (Executive Officer)",
+   "location": "Durham, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2117135/000211713526000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $1,500,000, $810,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002117135-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Clarity Management Aggregator, LLC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "W. Christian McCollum (Executive Officer); Brendan O'Reilly (Executive Officer); Matt Allen (Executive Officer); J. Patrick Conroy (Executive Officer); Robert S. Rutledge (Executive Officer); Matthew McCabe (Executive Officer)",
+   "location": "Los Angeles, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2113257/000211325726000003/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering Indefinite, $5 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002113257-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Graton Station",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Matthew Jorgensen (Executive Officer/Director/Promoter); Victoria Immel (Executive Officer/Director/Promoter)",
+   "location": "Graton, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2099701/000209970126000005/",
+   "industry": "Restaurants",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $1,000,000, $60,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002099701-26-000005"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Seraxis Holdings, Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "William L. Rust (Executive Officer/Director); Carole Welsch (Executive Officer); Jerry Baty (Director)",
+   "location": "Germantown, MD",
+   "link": "https://www.sec.gov/Archives/edgar/data/1845486/000184548626000003/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $10,000,000, $10,000,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0001845486-26-000003"
   }
  ]
 }
