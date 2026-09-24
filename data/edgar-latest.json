@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-22",
  "windowEnd": "2026-09-24",
- "totalFilings": 515,
- "summary": "Window 2026-09-22 to 2026-09-24: 515 Form D filings found; 121 looked like possible operating companies; 115 already processed in earlier runs (skipped); opened 6; 4 new passed filters; 53 rows in file.",
+ "totalFilings": 628,
+ "summary": "Window 2026-09-22 to 2026-09-24: 628 Form D filings found; 141 looked like possible operating companies; 121 already processed in earlier runs (skipped); opened 20; 9 new passed filters; 62 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -692,6 +692,123 @@
    "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $10,000,000, $0 sold so far; Corporation.",
    "fileDate": "2026-09-24",
    "accession": "0002134718-26-000089"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "GRITFOL, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Lewis Kasindi Kilongo (Executive Officer)",
+   "location": "Buda, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156997/000215699726000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $195,000, $145,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156997-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Mezisa Systems Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Adrian Edward Urgena (Executive Officer/Director)",
+   "location": "Lone Tree, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156991/000215699126000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $1,000,000, $25,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156991-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Beba Live Ltd Liability Co",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Inc. Ahrens Productions (Executive Officer); Robert Ahrens (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156776/000215677626000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $5,000,000, $0 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156776-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "YOUnifiedAI, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Eugina Jordan (Executive Officer/Director/Promoter); Praneet Chivate (Executive Officer/Promoter)",
+   "location": "Myrtle Beach, SC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156637/000215663726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $500,000, $65,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002156637-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "WD Agronomics Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Brandon Dirnberger (Executive Officer/Director); Samuel Wright (Executive Officer/Director)",
+   "location": "Cape Girardeau, MO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155850/000215585026000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $100,000, $100,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002155850-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Three Chords US Ltd Liability Co",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "LLC Caledonia Productions, (Executive Officer); Patrick Daly (Executive Officer); LLC DJ Stage Productions (Executive Officer); David Pope (Executive Officer); Limited Liability Company GKP Theatricals VI (Executive Officer); Gavin Kalin (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154216/000215421626000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $2,500,000, $0 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002154216-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Camp Green Lane, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jay Freedman (Executive Officer/Director); Adam Weiner (Executive Officer/Director); Michael Liben (Director)",
+   "location": "Green Lane, PA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2153617/000215361726000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $4,300,000, $4,300,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002153617-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ALTHEA TECHNOLOGIES PBC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Niko Skievaski (Executive Officer/Director); Andrew Conley (Executive Officer/Director); James Winslow (Executive Officer); Kyle Lefkof (Director)",
+   "location": "Boulder, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2032434/000203243426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $4,043,787, $2,543,780 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002032434-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Toetal Solutions, Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Jeffrey F O'Donnell, Sr. (Executive Officer/Director); William John Odenthal (Executive Officer/Director); William Scott Rhoda (Executive Officer/Director); Jeffrey F. O'Donnell, Jr. (Executive Officer/Director); Nicholas Pachuda (Director)",
+   "location": "Malvern, PA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1888204/000188820426000002/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $250,000, $50,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0001888204-26-000002"
   }
  ]
 }
