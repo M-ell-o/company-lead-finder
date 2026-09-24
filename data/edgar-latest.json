@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-22",
  "windowEnd": "2026-09-24",
- "totalFilings": 494,
- "summary": "Window 2026-09-22 to 2026-09-24: 494 Form D filings found; 115 looked like possible operating companies; 114 already processed in earlier runs (skipped); opened 1; 0 new passed filters; 49 rows in file.",
+ "totalFilings": 515,
+ "summary": "Window 2026-09-22 to 2026-09-24: 515 Form D filings found; 121 looked like possible operating companies; 115 already processed in earlier runs (skipped); opened 6; 4 new passed filters; 53 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -640,6 +640,58 @@
    "why": "Filed SEC Form D on 2026-09-23 (recent fundraising); offering $250,000, $50,500 sold so far; revenue: No Revenues; Limited Liability Company.",
    "fileDate": "2026-09-23",
    "accession": "0001199835-26-000357"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Arcweaver Systems, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Trishul Sivashankar Raja (Executive Officer/Director/Promoter); Tiber Seireeni (Executive Officer/Director/Promoter)",
+   "location": "Los Angeles, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155885/000215588526000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering Indefinite, $200,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002155885-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Future42, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Luke Sine (Executive Officer/Director); Dayton Runyan (Executive Officer/Director); Reed Webster (Executive Officer/Director); Ryan Eldridge (Director)",
+   "location": "American Fork, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155342/000215534226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $250,000, $25,000 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002155342-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Wander-x LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Pratik Vyas (Director)",
+   "location": "Miami, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155069/000215506926000001/",
+   "industry": "Computers",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering Indefinite, $80,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-24",
+   "accession": "0002155069-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "NeoDomes, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Bruce Brady (Executive Officer/Director); Chris Pigott (Executive Officer); Eric Bond (Executive Officer)",
+   "location": "Boise, ID",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156729/000213471826000089/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $10,000,000, $0 sold so far; Corporation.",
+   "fileDate": "2026-09-24",
+   "accession": "0002134718-26-000089"
   }
  ]
 }
