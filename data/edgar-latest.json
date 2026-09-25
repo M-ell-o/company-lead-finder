@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-23",
  "windowEnd": "2026-09-25",
- "totalFilings": 496,
- "summary": "Window 2026-09-23 to 2026-09-25: 496 Form D filings found; 116 looked like possible operating companies; 106 already processed in earlier runs (skipped); opened 10; 6 new passed filters; 52 rows in file.",
+ "totalFilings": 632,
+ "summary": "Window 2026-09-23 to 2026-09-25: 632 Form D filings found; 137 looked like possible operating companies; 116 already processed in earlier runs (skipped); opened 21; 10 new passed filters; 62 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -679,6 +679,136 @@
    "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $50,000,000, $25,032,287 sold so far; Corporation.",
    "fileDate": "2026-09-25",
    "accession": "0001193125-26-401614"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Lo Siento Spirits, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Rafael Fogel (Executive Officer/Director); Ryan Tierney (Executive Officer/Director); John Truchard (Director)",
+   "location": "Venice, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157062/000215706226000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $5,000,000, $657,500 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002157062-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Neander Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Kush Mishra (Executive Officer/Director); Sourabh Agarwal (Executive Officer/Director)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156936/000215693626000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $2,700,000, $2,649,998 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002156936-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Project Indigo, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Penghui Chen (Executive Officer/Director)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156255/000215625526000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $26,799,978, $0 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002156255-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Way Biosolutions, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Huaibin Zhang (Executive Officer/Director); David R. Walt (Director); Paul Meister (Director)",
+   "location": "Cambridge, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155613/000215561326000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $2,000,000, $2,000,000 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002155613-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Jellicle Cast Album Ltd Liability Co",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Inc. LWH Musicals, (Executive Officer); Michael Harrison (Executive Officer); Limited Liability Company MBPM (Executive Officer); Michael Bosner (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155274/000215527426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $600,000, $0 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0002155274-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "This Is Red Hook Ltd Liability Co",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Mark Berger (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155170/000215517026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $2,200,000, $1,031,250 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0002155170-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Modern Medical Holdings, Inc",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Michael Hakky (Executive Officer/Director); Vivek Patel (Executive Officer/Director); Adam Siegel (Executive Officer/Director)",
+   "location": "Winter Garden, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2139762/000213976226000002/",
+   "industry": "Hospitals and Physicians",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $6,000,000, $2,950,000 sold so far; revenue: $5,000,001 - $25,000,000; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002139762-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "OptoVista Holdings, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Matthew Michael Rosini (Executive Officer); Alexander Bailey (Executive Officer/Director); Christina Ohnsman (Executive Officer); Steven Oliveira (Director); Kerry Propper (Director)",
+   "location": "Washington, DC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2036372/000203637226000003/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $3,727,518, $3,727,518 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0002036372-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Navigator Medicines, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "TAUSIF BUTT (Executive Officer/Director/Promoter); STEPHEN BASIL THOMAS (Executive Officer/Director/Promoter); SCOTT FORREST (Executive Officer); WOUTER JOUSTRA (Director); KHUREM FAROOQ (Director); MATHIAS VINTHER (Director)",
+   "location": "San Mateo, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2035715/000203571526000005/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $40,000,000, $10,000,000 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002035715-26-000005"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Waynesboro Solar I, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jay Weaver (Executive Officer/Director); Jay Matthew Weaver (Executive Officer/Director); Ty Esbenshade (Director); Alex Hurst (Director); Roger North (Director)",
+   "location": "Ephrata, PA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2150522/000104303926000039/",
+   "industry": "Other Energy",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $4,700,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0001043039-26-000039"
   }
  ]
 }
