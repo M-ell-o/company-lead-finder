@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-23",
  "windowEnd": "2026-09-25",
- "totalFilings": 465,
- "summary": "Window 2026-09-23 to 2026-09-25: 465 Form D filings found; 106 looked like possible operating companies; 105 already processed in earlier runs (skipped); opened 1; 0 new passed filters; 46 rows in file.",
+ "totalFilings": 496,
+ "summary": "Window 2026-09-23 to 2026-09-25: 496 Form D filings found; 116 looked like possible operating companies; 106 already processed in earlier runs (skipped); opened 10; 6 new passed filters; 52 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -601,6 +601,84 @@
    "why": "Filed SEC Form D on 2026-09-24 (recent fundraising); offering $10,000,000, $10,000,000 sold so far; Corporation.",
    "fileDate": "2026-09-24",
    "accession": "0001845486-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "HOME Movie, LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Pasquale Emilio Avella (Executive Officer)",
+   "location": "Valley Village, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157289/000215728926000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $1,000,000, $250,000 sold so far; revenue: $1 - $1,000,000; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0002157289-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Camp Hope, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Stephen Edward Collins (Executive Officer)",
+   "location": "Middletown, CT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157251/000215725126000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $700,000, $700,000 sold so far; revenue: $1 - $1,000,000; Limited Liability Company.",
+   "fileDate": "2026-09-25",
+   "accession": "0002157251-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "EasyBear Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Stanislav Khalizov (Executive Officer/Director)",
+   "location": "Dover, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156157/000215615726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $500,000, $0 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002156157-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Vesta Hearth Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "William Hugh Cahill (Director); Patrick Anthony Cahill (Executive Officer)",
+   "location": "New York City, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2153161/000215316126000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $600,000, $43,500 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0002153161-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Pao Brands Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "XinPeng Li (Executive Officer)",
+   "location": "San Gabriel, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156057/000168316826007410/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $500,000, $0 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0001683168-26-007410"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Blue Laser Fusion, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Richard Ogawa (Executive Officer/Director); Shuji Nakamura (Executive Officer/Director); Paul Rudy (Executive Officer/Director); Vanessa Ann Truong (Executive Officer); Mathew August (Director); Jeffrey Shealy (Director)",
+   "location": "Goleta, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1938570/000119312526401614/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-25 (recent fundraising); offering $50,000,000, $25,032,287 sold so far; Corporation.",
+   "fileDate": "2026-09-25",
+   "accession": "0001193125-26-401614"
   }
  ]
 }
