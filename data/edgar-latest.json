@@ -1,7 +1,112 @@
 {
  "windowStart": "2026-09-26",
  "windowEnd": "2026-09-28",
- "totalFilings": 0,
- "summary": "Window 2026-09-26 to 2026-09-28: 0 Form D filings found; 0 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 0 rows in file.",
- "rows": []
+ "totalFilings": 28,
+ "summary": "Window 2026-09-26 to 2026-09-28: 28 Form D filings found; 14 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 14; 8 new passed filters; 8 rows in file.",
+ "rows": [
+  {
+   "source": "SEC Form D",
+   "company": "Myotis Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Matthew Leipzig (Executive Officer); Alan Brown (Executive Officer); Joseph Asher (Executive Officer); Jack Heflin (Executive Officer)",
+   "location": "Hamilton, OH",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157422/000215742226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $500,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0002157422-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Pace Pharmaceuticals, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Douglas Wang Yao (Executive Officer/Director/Promoter)",
+   "location": "Cupertino, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157304/000215730426000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering Indefinite, $50,000 sold so far; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0002157304-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Coda AI Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Pragalath Thiruvengadam (Executive Officer/Director); Diwan Yuvika (Executive Officer/Director)",
+   "location": "Bellevue, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157141/000215714126000001/",
+   "industry": "Computers",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $4,000,000, $100,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0002157141-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Vertical Longevity Pharmaceuticals, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "David Philip Scieszka (Executive Officer)",
+   "location": "Irvine, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2087846/000208784626000003/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $110,000, $110,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0002087846-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Audivi AI Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Seth Siegel (Executive Officer/Director); Brandon Jansen (Executive Officer/Director); Alan Boehme (Director); Meredith Fiertz (Director); Matthew Burr (Director)",
+   "location": "Milford, OH",
+   "link": "https://www.sec.gov/Archives/edgar/data/2057538/000205753826000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $1,500,000, $850,000 sold so far; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0002057538-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Left Main REI Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Stephanie Betters (Executive Officer/Director); Zachary Betters (Executive Officer); David Gardner (Director); Josh Stech (Director)",
+   "location": "Charlotte, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/1967300/000196730026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $5,500,000, $1,424,898 sold so far; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0001967300-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "PFARADIGM Health, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Allan Zingeler (Executive Officer/Director); David Bonita (Director); Rupa Patel (Executive Officer); Michael Hurley (Director); Michael Kramer (Director); Raju Viswanathan (Director)",
+   "location": "Palo Alto, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156162/000123191926001228/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $56,053,611, $31,053,616 sold so far; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0001231919-26-001228"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Alpfa Medical, Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Allan Zingeler (Executive Officer/Director); David Bonita (Director); Andrew ElBardissi (Director); Michael Hurley (Director); Michael Kramer (Director); Raju Viswanathan (Director)",
+   "location": "Palo Alto, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156252/000123191926001227/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $100,268,055, $80,268,077 sold so far; Corporation.",
+   "fileDate": "2026-09-28",
+   "accession": "0001231919-26-001227"
+  }
+ ]
 }
