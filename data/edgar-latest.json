@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-27",
  "windowEnd": "2026-09-29",
- "totalFilings": 208,
- "summary": "Window 2026-09-27 to 2026-09-29: 208 Form D filings found; 72 looked like possible operating companies; 72 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 28 rows in file.",
+ "totalFilings": 287,
+ "summary": "Window 2026-09-27 to 2026-09-29: 287 Form D filings found; 95 looked like possible operating companies; 72 already processed in earlier runs (skipped); opened 23; 5 new passed filters; 33 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -367,6 +367,71 @@
    "why": "Filed SEC Form D on 2026-09-28 (recent fundraising); offering $1,000,000, $221,475 sold so far; Limited Liability Company.",
    "fileDate": "2026-09-28",
    "accession": "0001014108-26-000052"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "POPHOUSE AVATAR NETWORK INC.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jessica Koravos (Executive Officer/Director); Linda Holjo (Executive Officer); Natalia Fontecha (Director); Michael Bolingbroke (Director); Mike McLellan (Director)",
+   "location": "Las Vegas, NV",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157435/000215743526000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $257,000,000, $128,500,000 sold so far; Corporation.",
+   "fileDate": "2026-09-29",
+   "accession": "0002157435-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Definition II-F LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Weston Reynolds (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157368/000215736826000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $2,040,000, $2,040,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-09-29",
+   "accession": "0002157368-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Tom Adams, Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Adam Swig (Executive Officer)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156973/000215697326000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $750,000, $0 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-29",
+   "accession": "0002156973-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Upstream Metabolics, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Sam Harper Thorpe (Executive Officer/Director); Ashley Nicole Smith (Executive Officer/Director)",
+   "location": "Lafayette, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2151718/000215171826000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $150,000, $50,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-29",
+   "accession": "0002151718-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CHERUB TECHNOLOGIES, INC.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Jaclyn Johnson (Executive Officer/Director); Angeline Vuong (Executive Officer/Director)",
+   "location": "Burbank, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2007369/000200736926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $850,000, $785,000 sold so far; Corporation.",
+   "fileDate": "2026-09-29",
+   "accession": "0002007369-26-000001"
   }
  ]
 }
