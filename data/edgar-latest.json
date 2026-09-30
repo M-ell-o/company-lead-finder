@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-28",
  "windowEnd": "2026-09-30",
- "totalFilings": 543,
- "summary": "Window 2026-09-28 to 2026-09-30: 543 Form D filings found; 153 looked like possible operating companies; 153 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 55 rows in file.",
+ "totalFilings": 620,
+ "summary": "Window 2026-09-28 to 2026-09-30: 620 Form D filings found; 167 looked like possible operating companies; 153 already processed in earlier runs (skipped); opened 14; 7 new passed filters; 62 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -718,6 +718,97 @@
    "why": "Filed SEC Form D on 2026-09-29 (recent fundraising); offering $100,000, $80,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
    "fileDate": "2026-09-29",
    "accession": "0001096906-26-001473"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "REGENERATUS, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Geo Raguraman (Executive Officer)",
+   "location": "Newark, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157852/000215785226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $300,000, $15,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002157852-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Huettl AI, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Andrew John Huettl (Executive Officer/Director/Promoter); Benjamin Wesley Lepp (Executive Officer/Director/Promoter)",
+   "location": "Grand Forks, ND",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157478/000215747826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $40,000, $40,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002157478-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Dynagentic Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Rick Farnell (Executive Officer/Director)",
+   "location": "Salt Lake City, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157327/000215732726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $3,000,000, $200,000 sold so far; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002157327-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Intuito",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Justice Ciarrai Dixon (Executive Officer)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156531/000215653126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $500,000, $70,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002156531-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Settle Data, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Kaan Dincer (Executive Officer/Director/Promoter); Bastian Kuberek (Executive Officer/Promoter)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157301/000215406726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $2,000,000, $15,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002154067-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "F42 Corp",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Steve Bates (Executive Officer/Director)",
+   "location": "Newport Beach, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2131684/000213168426000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $30,000,000, $4,000,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0002131684-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ARTBnk Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Jamie LaFleur (Director); Alican Arcasoy (Executive Officer); Janet Graham (Executive Officer); Kelly Wright (Executive Officer)",
+   "location": "Newmarket, NH",
+   "link": "https://www.sec.gov/Archives/edgar/data/1924727/000192472726000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $5,000,000, $875,000 sold so far; Corporation.",
+   "fileDate": "2026-09-30",
+   "accession": "0001924727-26-000003"
   }
  ]
 }
