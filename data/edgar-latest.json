@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-29",
  "windowEnd": "2026-10-01",
- "totalFilings": 664,
- "summary": "Window 2026-09-29 to 2026-10-01: 664 Form D filings found; 143 looked like possible operating companies; 142 already processed in earlier runs (skipped); opened 1; 0 new passed filters; 51 rows in file.",
+ "totalFilings": 721,
+ "summary": "Window 2026-09-29 to 2026-10-01: 721 Form D filings found; 150 looked like possible operating companies; 143 already processed in earlier runs (skipped); opened 7; 4 new passed filters; 55 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -666,6 +666,58 @@
    "why": "Filed SEC Form D on 2026-09-30 (recent fundraising); offering $3,000,000, $525,000 sold so far; Corporation.",
    "fileDate": "2026-09-30",
    "accession": "0000891839-26-000413"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Cruitical, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Shubham Srivastava (Executive Officer/Director/Promoter); Yash Narendra Thakkar (Executive Officer/Director/Promoter)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156647/000215664726000001/",
+   "industry": "Computers",
+   "why": "Filed SEC Form D on 2026-10-01 (recent fundraising); offering $100,000, $100,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-01",
+   "accession": "0002156647-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Curated Drops LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jay Deepak Rao (Executive Officer/Director); Forest Hu (Executive Officer/Director)",
+   "location": "Flushing, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155609/000215560926000001/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-10-01 (recent fundraising); offering $500,000, $5,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-10-01",
+   "accession": "0002155609-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Petro Fluid Dynamics LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Kenneth Hanley (Executive Officer)",
+   "location": "Rapid City, SD",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155237/000215523726000001/",
+   "industry": "Oil and Gas",
+   "why": "Filed SEC Form D on 2026-10-01 (recent fundraising); offering Indefinite, $4,434,304 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-01",
+   "accession": "0002155237-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Axle Labs, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Cameron Duncan (Executive Officer/Director); Nihar Parikh (Executive Officer/Director); Armaan Sikand (Director)",
+   "location": "Atlanta, GA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-01 (recent fundraising); offering $17,260,363, $17,260,363 sold so far; Corporation.",
+   "fileDate": "2026-10-01",
+   "accession": "0001951844-26-000005"
   }
  ]
 }
