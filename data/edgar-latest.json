@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-09-30",
  "windowEnd": "2026-10-02",
- "totalFilings": 619,
- "summary": "Window 2026-09-30 to 2026-10-02: 619 Form D filings found; 120 looked like possible operating companies; 120 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 54 rows in file.",
+ "totalFilings": 660,
+ "summary": "Window 2026-09-30 to 2026-10-02: 660 Form D filings found; 130 looked like possible operating companies; 120 already processed in earlier runs (skipped); opened 10; 3 new passed filters; 57 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -705,6 +705,45 @@
    "why": "Filed SEC Form D on 2026-10-01 (recent fundraising); offering $8,277,596, $8,277,596 sold so far; Corporation.",
    "fileDate": "2026-10-01",
    "accession": "0001062993-26-005133"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Confirm Global, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Paul Ford (Executive Officer/Director); Jonathan Hoggard (Executive Officer/Director); Andrew Carr (Director)",
+   "location": "Littleton, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158234/000215823426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-02 (recent fundraising); offering $425,000, $0 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-02",
+   "accession": "0002158234-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Fuego Racing LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Cole Morehead (Director); Chad Beus (Director)",
+   "location": "Thackerville, OK",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156584/000215658426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-02 (recent fundraising); offering $1,250,000, $250,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-02",
+   "accession": "0002156584-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "TraceFrame, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Alexander James Bartoletti (Executive Officer); Thomas Junwu Huang (Executive Officer)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154077/000215407726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-02 (recent fundraising); offering Indefinite, $20,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-02",
+   "accession": "0002154077-26-000001"
   }
  ]
 }
