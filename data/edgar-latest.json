@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-05",
  "windowEnd": "2026-10-07",
- "totalFilings": 502,
- "summary": "Window 2026-10-05 to 2026-10-07: 502 Form D filings found; 118 looked like possible operating companies; 86 already processed in earlier runs (skipped); opened 32; 13 new passed filters; 46 rows in file.",
+ "totalFilings": 577,
+ "summary": "Window 2026-10-05 to 2026-10-07: 577 Form D filings found; 126 looked like possible operating companies; 118 already processed in earlier runs (skipped); opened 8; 4 new passed filters; 50 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -601,6 +601,58 @@
    "why": "Filed SEC Form D on 2026-10-06 (recent fundraising); offering $2,075,000, $2,075,000 sold so far; Corporation.",
    "fileDate": "2026-10-06",
    "accession": "0001980218-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Lumie Group Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Helen Lu (Executive Officer)",
+   "location": "Houston, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159001/000215900126000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-07 (recent fundraising); offering $1,500,000, $100,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-07",
+   "accession": "0002159001-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Metabolica, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Nicholas Noble Rallis (Executive Officer)",
+   "location": "Jacksonville, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158586/000215858626000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-07 (recent fundraising); offering $325,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-07",
+   "accession": "0002158586-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Faex Technologies Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Landon Bradley Nattrass (Executive Officer/Director); Ryan Thomas Kline Ninness (Executive Officer)",
+   "location": "Lafayette, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2148280/000214828026000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-07 (recent fundraising); offering $100,000, $38,888 sold so far; Corporation.",
+   "fileDate": "2026-10-07",
+   "accession": "0002148280-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Reltek, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Robert Lindberg (Director)",
+   "location": "Santa Rosa, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2133748/000213374826000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-10-07 (recent fundraising); offering Indefinite, $0 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-07",
+   "accession": "0002133748-26-000001"
   }
  ]
 }
