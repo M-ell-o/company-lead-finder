@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-06",
  "windowEnd": "2026-10-08",
- "totalFilings": 621,
- "summary": "Window 2026-10-06 to 2026-10-08: 621 Form D filings found; 138 looked like possible operating companies; 135 already processed in earlier runs (skipped); opened 3; 1 new passed filters; 61 rows in file.",
+ "totalFilings": 676,
+ "summary": "Window 2026-10-06 to 2026-10-08: 676 Form D filings found; 146 looked like possible operating companies; 138 already processed in earlier runs (skipped); opened 8; 3 new passed filters; 64 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -796,6 +796,45 @@
    "why": "Filed SEC Form D on 2026-10-07 (recent fundraising); offering $1,999,999, $1,721,999 sold so far; Corporation.",
    "fileDate": "2026-10-07",
    "accession": "0002026799-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ayvera AI Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Sandeep Ramachandran (Executive Officer/Director/Promoter); Arunava Saha (Director/Promoter)",
+   "location": "Dublin, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158648/000215864826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-08 (recent fundraising); offering $2,000,000, $125,000 sold so far; Corporation.",
+   "fileDate": "2026-10-08",
+   "accession": "0002158648-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Kitchenoid Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Varesh Rangan Krishnan Potti (Executive Officer); Srikant Devaraj (Executive Officer); Arun Chandrasekaran (Executive Officer)",
+   "location": "Fremont, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156301/000215630126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-08 (recent fundraising); offering $10,000,000, $0 sold so far; Corporation.",
+   "fileDate": "2026-10-08",
+   "accession": "0002156301-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Mindset Innovation II, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Roy Burstin (Executive Officer/Director); Ali Mostoufi (Executive Officer/Director)",
+   "location": "Santa Monica, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2149304/000214930426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-08 (recent fundraising); offering $700,000, $700,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-08",
+   "accession": "0002149304-26-000001"
   }
  ]
 }
