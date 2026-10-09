@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-07",
  "windowEnd": "2026-10-09",
- "totalFilings": 594,
- "summary": "Window 2026-10-07 to 2026-10-09: 594 Form D filings found; 123 looked like possible operating companies; 123 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 61 rows in file.",
+ "totalFilings": 646,
+ "summary": "Window 2026-10-07 to 2026-10-09: 646 Form D filings found; 131 looked like possible operating companies; 123 already processed in earlier runs (skipped); opened 8; 3 new passed filters; 64 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -796,6 +796,45 @@
    "why": "Filed SEC Form D on 2026-10-08 (recent fundraising); offering $200,000, $50,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-08",
    "accession": "0001080368-26-000006"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "NOVASPARK ENERGY Corp",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "FREDRICK L HARLOW (Executive Officer)",
+   "location": "Houston, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159371/000215937126000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-10-09 (recent fundraising); offering $900,000, $156,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-09",
+   "accession": "0002159371-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "HTD Health, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Zachary Markin (Executive Officer/Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154839/000215483926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-09 (recent fundraising); offering $570,068, $570,068 sold so far; revenue: $5,000,001 - $25,000,000; Corporation.",
+   "fileDate": "2026-10-09",
+   "accession": "0002154839-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CulinaryOne, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Charles Edward Eaton (Executive Officer); Jerel R Moore (Executive Officer)",
+   "location": "Lincoln, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2149160/000214916026000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-10-09 (recent fundraising); offering $1,000,000, $200,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-10-09",
+   "accession": "0002149160-26-000001"
   }
  ]
 }
