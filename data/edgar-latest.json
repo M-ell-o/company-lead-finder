@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-12",
  "windowEnd": "2026-10-14",
- "totalFilings": 379,
- "summary": "Window 2026-10-12 to 2026-10-14: 379 Form D filings found; 104 looked like possible operating companies; 104 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 43 rows in file.",
+ "totalFilings": 449,
+ "summary": "Window 2026-10-12 to 2026-10-14: 449 Form D filings found; 116 looked like possible operating companies; 104 already processed in earlier runs (skipped); opened 12; 1 new passed filters; 44 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -562,6 +562,19 @@
    "why": "Filed SEC Form D on 2026-10-13 (recent fundraising); offering $720,000, $300,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-13",
    "accession": "0001043039-26-000044"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Cerebro Labs Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Rajkiran Panuganti (Executive Officer/Director)",
+   "location": "Milpitas, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159142/000215914226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-14 (recent fundraising); offering Indefinite, $100,000 sold so far; Corporation.",
+   "fileDate": "2026-10-14",
+   "accession": "0002159142-26-000001"
   }
  ]
 }
