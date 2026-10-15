@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-13",
  "windowEnd": "2026-10-15",
- "totalFilings": 0,
- "summary": "Window 2026-10-13 to 2026-10-15: 0 Form D filings found; 0 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 79 rows in file.",
+ "totalFilings": 796,
+ "summary": "Window 2026-10-13 to 2026-10-15: 796 Form D filings found; 212 looked like possible operating companies; 191 already processed in earlier runs (skipped); opened 21; 6 new passed filters; 85 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -1030,6 +1030,84 @@
    "why": "Filed SEC Form D on 2026-10-14 (recent fundraising); offering $875,000, $875,000 sold so far; Corporation.",
    "fileDate": "2026-10-14",
    "accession": "0000892251-26-000179"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "UnityCore, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Kris Sorenson (Executive Officer); Gavin Washburn (Executive Officer); PATRICK DAYTON (Executive Officer); Cameron Dayton (Executive Officer)",
+   "location": "Round Rock, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160238/000216023826000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $150,000, $150,000 sold so far; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002160238-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Rail Mobile Power, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Matthew Francis Russell (Executive Officer)",
+   "location": "Spokane, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159054/000215905426000003/",
+   "industry": "Other Energy",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $1,000,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002159054-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Bye Pow, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Matthew Francis Russell (Executive Officer)",
+   "location": "Spokane, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158619/000215861926000002/",
+   "industry": "Other Energy",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $1,000,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002158619-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ADA Payments Technologies, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Omer Unsal (Executive Officer/Director/Promoter)",
+   "location": "Manhattan Beach, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157886/000215788626000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $500,000, $35,000 sold so far; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002157886-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Remitian Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Solon Angel (Executive Officer); Brian Coburn (Director); Keith Cerny (Director)",
+   "location": "Miami, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2153884/000215388426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $20,000,000, $14,031,768 sold so far; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002153884-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Cofertility, Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Lauren Steingold Makler (Executive Officer/Director); Halle Tecco (Executive Officer/Director); Parul Singh (Director)",
+   "location": "Los Angeles, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2057534/000205753426000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering $9,000,000, $8,380,000 sold so far; Corporation.",
+   "fileDate": "2026-10-15",
+   "accession": "0002057534-26-000003"
   }
  ]
 }
