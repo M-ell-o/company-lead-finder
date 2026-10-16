@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-14",
  "windowEnd": "2026-10-16",
- "totalFilings": 682,
- "summary": "Window 2026-10-14 to 2026-10-16: 682 Form D filings found; 168 looked like possible operating companies; 166 already processed in earlier runs (skipped); opened 2; 1 new passed filters; 67 rows in file.",
+ "totalFilings": 748,
+ "summary": "Window 2026-10-14 to 2026-10-16: 748 Form D filings found; 177 looked like possible operating companies; 168 already processed in earlier runs (skipped); opened 9; 3 new passed filters; 70 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -874,6 +874,45 @@
    "why": "Filed SEC Form D on 2026-10-15 (recent fundraising); offering Indefinite, $2,000,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-15",
    "accession": "0002123335-26-000004"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "StrikeArc Labs Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Ethan Linkner (Executive Officer/Director)",
+   "location": "Birmingham, MI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160355/000216035526000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $500,000, $500,000 sold so far; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002160355-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "JAH Farmland Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jonathon Aaron Hohertz (Executive Officer/Director)",
+   "location": "La Moille, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160001/000216000126000001/",
+   "industry": "Agriculture",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $30,000,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002160001-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Memazing, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Hyunjune Sebastian Seung (Executive Officer/Director); Maxim Parr (Director)",
+   "location": "Princeton, NJ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160552/000123191926001462/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $26,244,981, $15,404,990 sold so far; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0001231919-26-001462"
   }
  ]
 }
