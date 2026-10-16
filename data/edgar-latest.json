@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-14",
  "windowEnd": "2026-10-16",
- "totalFilings": 748,
- "summary": "Window 2026-10-14 to 2026-10-16: 748 Form D filings found; 177 looked like possible operating companies; 168 already processed in earlier runs (skipped); opened 9; 3 new passed filters; 70 rows in file.",
+ "totalFilings": 835,
+ "summary": "Window 2026-10-14 to 2026-10-16: 835 Form D filings found; 190 looked like possible operating companies; 177 already processed in earlier runs (skipped); opened 13; 4 new passed filters; 74 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -913,6 +913,58 @@
    "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $26,244,981, $15,404,990 sold so far; Corporation.",
    "fileDate": "2026-10-16",
    "accession": "0001231919-26-001462"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Motaris Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Joseph D Gregg (Executive Officer/Director); Robert D Gregg (Executive Officer/Director)",
+   "location": "Ann Arbor, MI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160028/000216002826000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $300,000, $50,000 sold so far; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002160028-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Estuary Biotherapeutics, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Wayne E. Sackett (Executive Officer/Director); Jacob Bauer (Director); Owen Smith (Director); Emily Minkow (Director)",
+   "location": "Menlo Park, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2138862/000213886226000003/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $103,654,385, $40,654,685 sold so far; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002138862-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Yard Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Divya Chetan Thakur (Executive Officer/Director)",
+   "location": "Tanner, AL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2111479/000211147926000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $500,000, $240,000 sold so far; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002111479-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Immorta Bio, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Boris Reznik (Executive Officer)",
+   "location": "Miami Beach, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2102665/000210266526000002/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-16 (recent fundraising); offering $5,000,000, $612,503 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-16",
+   "accession": "0002102665-26-000002"
   }
  ]
 }
