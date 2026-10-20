@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-18",
  "windowEnd": "2026-10-20",
- "totalFilings": 254,
- "summary": "Window 2026-10-18 to 2026-10-20: 254 Form D filings found; 69 looked like possible operating companies; 58 already processed in earlier runs (skipped); opened 11; 7 new passed filters; 32 rows in file.",
+ "totalFilings": 330,
+ "summary": "Window 2026-10-18 to 2026-10-20: 330 Form D filings found; 87 looked like possible operating companies; 68 already processed in earlier runs (skipped); opened 19; 6 new passed filters; 38 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -419,6 +419,84 @@
    "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $24,000,000, $19,999,998 sold so far; Corporation.",
    "fileDate": "2026-10-20",
    "accession": "0002017592-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Hideout House Acadia, LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Caleb Scott (Executive Officer/Director)",
+   "location": "Sargentville, ME",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160979/000216097926000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $125,000, $125,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160979-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Granted Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "John Washburn Ohrenberger (Executive Officer/Director); Nicolas Joshua Mendoza (Executive Officer/Director)",
+   "location": "Decatur, GA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160959/000216095926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $1,000,000, $45,000 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160959-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Worth Alliance LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Scott McGrath (Executive Officer/Director/Promoter)",
+   "location": "Bedford, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160692/000216069226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $6,000,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160692-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "From Kalliope With Love Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Christopher Pridemore (Executive Officer/Director); Arianna Caldwell (Executive Officer/Director); Emad Bhatt (Executive Officer/Director)",
+   "location": "Eden Prairie, MN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160674/000216067426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $100,000, $60,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160674-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "LXRE Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Edo Zucker (Executive Officer/Director); John Sable (Executive Officer/Director)",
+   "location": "Denver, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159433/000215943326000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $3,000,000, $1,000,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002159433-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Bad Chicken 2 LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Robert A. Shuey (Executive Officer/Director/Promoter)",
+   "location": "Dallas, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156132/000215613226000001/",
+   "industry": "Restaurants",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $400,000, $85,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002156132-26-000001"
   }
  ]
 }
