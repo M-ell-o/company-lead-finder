@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-18",
  "windowEnd": "2026-10-20",
- "totalFilings": 218,
- "summary": "Window 2026-10-18 to 2026-10-20: 218 Form D filings found; 58 looked like possible operating companies; 58 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 25 rows in file.",
+ "totalFilings": 254,
+ "summary": "Window 2026-10-18 to 2026-10-20: 254 Form D filings found; 69 looked like possible operating companies; 58 already processed in earlier runs (skipped); opened 11; 7 new passed filters; 32 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -328,6 +328,97 @@
    "why": "Filed SEC Form D on 2026-10-19 (recent fundraising); offering $2,000,000, $875,000 sold so far; Corporation.",
    "fileDate": "2026-10-19",
    "accession": "0001972722-26-000005"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Sigil Health Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jeffry Senk (Executive Officer/Director)",
+   "location": "Austin, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160716/000216071626000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $2,100,000, $35,000 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160716-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "SunMoon Maui Citruscello LLC",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Adam R. Mehr (Executive Officer)",
+   "location": "Kihei, HI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160630/000216063026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $1,500,000, $250,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160630-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Moonraker Mining I, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "RYAN OBRIEN (Executive Officer/Director); ROGER FLAHIVE (Executive Officer/Director)",
+   "location": "Littleton, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160242/000216024226000004/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $6,000,000, $824,980 sold so far; revenue: $1,000,001 - $5,000,000; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160242-26-000004"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Moonraker Mining I, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "RYAN O'BRIEN (Executive Officer/Director); ROGER FLAHIVE (Executive Officer/Director)",
+   "location": "Littleton, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160242/000216024226000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $1,000,000, $214,982 sold so far; revenue: $1,000,001 - $5,000,000; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160242-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Moonraker Mining I, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "RYAN O'BRIEN (Executive Officer/Director); ROGER FLAHIVE (Executive Officer/Director)",
+   "location": "Littleton, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160242/000216024226000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $2,800,000, $1,899,686 sold so far; revenue: $1,000,001 - $5,000,000; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160242-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Moonraker Mining I, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "RYAN O'BRIEN (Executive Officer/Director); ROGER FLAHIVE (Executive Officer/Director)",
+   "location": "Littleton, CO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160242/000216024226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $499,950, $70,290 sold so far; revenue: $1,000,001 - $5,000,000; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002160242-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ascertain Systems, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Mark Michalski (Executive Officer/Director); Carlos Dedesma (Executive Officer); John Beadle (Director); Courtney Marcin (Director); Moses Adubi (Director); Julian Harris (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $24,000,000, $19,999,998 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002017592-26-000002"
   }
  ]
 }
