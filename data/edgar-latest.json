@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-18",
  "windowEnd": "2026-10-20",
- "totalFilings": 330,
- "summary": "Window 2026-10-18 to 2026-10-20: 330 Form D filings found; 87 looked like possible operating companies; 68 already processed in earlier runs (skipped); opened 19; 6 new passed filters; 38 rows in file.",
+ "totalFilings": 424,
+ "summary": "Window 2026-10-18 to 2026-10-20: 424 Form D filings found; 114 looked like possible operating companies; 88 already processed in earlier runs (skipped); opened 26; 8 new passed filters; 46 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -497,6 +497,110 @@
    "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $400,000, $85,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-20",
    "accession": "0002156132-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Atlis Health, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Brian Schroeder (Executive Officer); Jamie Scarcelli (Executive Officer); Brendan M Haffey (Executive Officer)",
+   "location": "Greenwood, IN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159248/000215924826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $1,000,000, $250,000 sold so far; revenue: $1 - $1,000,000; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002159248-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Virtus Maritime, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "J. Daniel Pead (Executive Officer/Director); Ryan Talmadge (Executive Officer/Director); Andrew Powch (Executive Officer/Director); Benjamin H. Thomas (Executive Officer/Director); Antonio Bolfo (Director); Matthew Travers (Executive Officer)",
+   "location": "Morehead City, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158867/000215886726000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $500,000, $500,000 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002158867-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Virtus Maritime, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "J. Daniel Pead (Executive Officer/Director); Ryan Talmadge (Executive Officer/Director); Andrew Powch (Executive Officer/Director); Benjamin H. Thomas (Executive Officer/Director); Antonio Bolfo (Director); Matthew Travers (Executive Officer)",
+   "location": "Morehead City, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158867/000215886726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $1,197, $1,197 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002158867-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CORE X SRS Regional LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Tom Casey (Executive Officer); Edward Shehwen (Executive Officer); CORE X Partners LLC (Director)",
+   "location": "Mt Laurel, NJ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2144077/000214407726000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $10,574,977, $10,574,977 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002144077-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ReservoirCo, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Matthew Adam Kestenbaum (Executive Officer); Vladimir Kroz (Executive Officer)",
+   "location": "Boca Raton, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2131317/000213131726000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $750,000, $750,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002131317-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ALPHABETASOUP LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Given Peace Borthwick (Executive Officer/Director/Promoter); Samuel Abraham Borthwick (Executive Officer/Director/Promoter); Earnest-Will Blessong Borthwick (Executive Officer/Director/Promoter); Ryan Woodall (Executive Officer)",
+   "location": "Stanwood, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2073572/000207357226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $100,000, $100,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-10-20",
+   "accession": "0002073572-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Crosslink Therapeutics Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Ronald D. Seidel, III (Executive Officer/Director); Andrew King (Director); Lou Tartaglia (Director); Rodolfo Chaparro (Director); David Fallace (Director); Cameron Gallagher (Director)",
+   "location": "Boston, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2067583/000206758326000002/",
+   "industry": "Pharmaceuticals",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $5,500,000, $5,500,000 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002067583-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Nocturnal Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Abhinandan Jain (Executive Officer/Director); Rajeev Surati (Director)",
+   "location": "Cambridge, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2042126/000204212626000003/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $2,000,000, $1,850,000 sold so far; Corporation.",
+   "fileDate": "2026-10-20",
+   "accession": "0002042126-26-000003"
   }
  ]
 }
