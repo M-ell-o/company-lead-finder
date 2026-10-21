@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-19",
  "windowEnd": "2026-10-21",
- "totalFilings": 424,
- "summary": "Window 2026-10-19 to 2026-10-21: 424 Form D filings found; 114 looked like possible operating companies; 114 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 46 rows in file.",
+ "totalFilings": 481,
+ "summary": "Window 2026-10-19 to 2026-10-21: 481 Form D filings found; 124 looked like possible operating companies; 114 already processed in earlier runs (skipped); opened 10; 3 new passed filters; 49 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -601,6 +601,45 @@
    "why": "Filed SEC Form D on 2026-10-20 (recent fundraising); offering $2,000,000, $1,850,000 sold so far; Corporation.",
    "fileDate": "2026-10-20",
    "accession": "0002042126-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "53 Maine Associates LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "David Holman (Executive Officer)",
+   "location": "North Yarmouth, ME",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161278/000216127826000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $15,000,000, $0 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-10-21",
+   "accession": "0002161278-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ritually, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Ari Winkleman (Executive Officer/Director); Chris Finnin (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158085/000215808526000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $1,500,000, $1,250,000 sold so far; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002158085-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Conexeu Sciences Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "DAVID R BOGART (Executive Officer/Director); MILES HARRISON (Executive Officer/Director); AARON FARBERG (Director); STEPHEN D INOUYE (Executive Officer); CLAUDIA CHAVEZ-MUNOZ (Executive Officer); JEFF SHARPE (Director)",
+   "location": "Reno, NV",
+   "link": "https://www.sec.gov/Archives/edgar/data/2066836/000206075526000061/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $2,999,994, $1,499,997 sold so far; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002060755-26-000061"
   }
  ]
 }
