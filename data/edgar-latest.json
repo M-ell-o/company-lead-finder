@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-19",
  "windowEnd": "2026-10-21",
- "totalFilings": 481,
- "summary": "Window 2026-10-19 to 2026-10-21: 481 Form D filings found; 124 looked like possible operating companies; 114 already processed in earlier runs (skipped); opened 10; 3 new passed filters; 49 rows in file.",
+ "totalFilings": 550,
+ "summary": "Window 2026-10-19 to 2026-10-21: 550 Form D filings found; 140 looked like possible operating companies; 124 already processed in earlier runs (skipped); opened 16; 7 new passed filters; 56 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -640,6 +640,97 @@
    "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $2,999,994, $1,499,997 sold so far; Corporation.",
    "fileDate": "2026-10-21",
    "accession": "0002060755-26-000061"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Northern Peak S11 LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Aaron David Glasser (Executive Officer/Promoter); Joseph Ryan Glowacki (Executive Officer/Promoter); Dixon Matthew Bradbury (Executive Officer/Promoter); Joel D Lowery (Executive Officer/Promoter)",
+   "location": "Mooresville, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161250/000216125026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering Indefinite, $300,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-21",
+   "accession": "0002161250-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CandorIQ, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Haris Ikram (Executive Officer/Director); Sutthipong Thavisomboon (Executive Officer/Director); Naeem Raza (Director); Adam Hansman (Director)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160850/000216085026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $13,543,208, $13,543,208 sold so far; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002160850-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Naytra, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Varun Oberai (Executive Officer/Director)",
+   "location": "New Haven, CT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160812/000216081226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering Indefinite, $125,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002160812-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Quiver Holdings Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Graham T Dempsey (Executive Officer); David Liederbach (Executive Officer); David Margulies (Executive Officer/Director); Paul Roma (Executive Officer/Director); Jonathan Fleming (Director); Janet Foutty (Director)",
+   "location": "Cambridge, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160800/000216080026000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering Indefinite, $3,005,000 sold so far; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002160800-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "MOG DEVELOPMENT Ltd LIABILITY Co",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "YUSUKE KUROKAWA (Executive Officer/Director/Promoter)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160596/000216059626000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $11,000,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-21",
+   "accession": "0002160596-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Luminous Robotics, Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Jay W. Wong (Executive Officer/Director); Robert T. Boyd Jr. (Director); Brandon Moak (Director)",
+   "location": "Boston, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2080868/000208086826000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $7,000,000, $2,400,000 sold so far; Corporation.",
+   "fileDate": "2026-10-21",
+   "accession": "0002080868-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Rosella Boston LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "RHMG LLC (Director); The Bowler Company, Inc. (Director); Stephen Bowler (Executive Officer)",
+   "location": "Boston, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161198/000119248226000461/",
+   "industry": "Restaurants",
+   "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $1,200,000, $500,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-21",
+   "accession": "0001192482-26-000461"
   }
  ]
 }
