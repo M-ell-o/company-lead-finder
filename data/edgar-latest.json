@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-20",
  "windowEnd": "2026-10-22",
- "totalFilings": 521,
- "summary": "Window 2026-10-20 to 2026-10-22: 521 Form D filings found; 130 looked like possible operating companies; 119 already processed in earlier runs (skipped); opened 11; 7 new passed filters; 55 rows in file.",
+ "totalFilings": 619,
+ "summary": "Window 2026-10-20 to 2026-10-22: 619 Form D filings found; 145 looked like possible operating companies; 130 already processed in earlier runs (skipped); opened 15; 6 new passed filters; 61 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -718,6 +718,84 @@
    "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $115,174,986, $104,364,967 sold so far; Corporation.",
    "fileDate": "2026-10-22",
    "accession": "0002046793-26-000005"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Third Street Wellness Member LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "William Murphy (Executive Officer); Alexander Samoylovich (Executive Officer); Mark Heffron (Executive Officer)",
+   "location": "Chicago, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161224/000216122426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $4,050,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-22",
+   "accession": "0002161224-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Moverz Studios Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Dylan McIntyre (Executive Officer); Ryan Costello (Executive Officer)",
+   "location": "Wilmington, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158700/000215870026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $1,000,000, $150,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002158700-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "TWINTUAL INC.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Cristina Grau-Vilchez (Executive Officer/Director); Mathieu Bertrandy (Executive Officer/Director)",
+   "location": "Newark, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2155781/000215578126000001/",
+   "industry": "Computers",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering Indefinite, $75,240 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002155781-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Chubby Group, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Dawei Zhao (Executive Officer/Director); Haibin Yang (Executive Officer/Director); Matthew Roberts (Director); Wenjie Li (Executive Officer); Thuyet Nguyen (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2085051/000208505126000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $49,999,372, $49,999,372 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002085051-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Altrartis Therapeutics Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Florian Brand (Executive Officer/Director/Promoter); Lars Christian Wilde (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157050/000123191926001488/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $10,999,977, $10,999,977 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0001231919-26-001488"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Salus Scientific Corp.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Todd Flohr (Executive Officer/Director); Keith Rosmarin (Executive Officer); Jon Wallace (Executive Officer/Director); William Buchanan (Director); Ryan Majoria (Director); Ronald Sancho (Director)",
+   "location": "Charleston, SC",
+   "link": "https://www.sec.gov/Archives/edgar/data/1952070/000108514626000912/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $30,000,000, $0 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0001085146-26-000912"
   }
  ]
 }
