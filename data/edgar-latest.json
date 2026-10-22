@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-20",
  "windowEnd": "2026-10-22",
- "totalFilings": 464,
- "summary": "Window 2026-10-20 to 2026-10-22: 464 Form D filings found; 119 looked like possible operating companies; 119 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 48 rows in file.",
+ "totalFilings": 521,
+ "summary": "Window 2026-10-20 to 2026-10-22: 521 Form D filings found; 130 looked like possible operating companies; 119 already processed in earlier runs (skipped); opened 11; 7 new passed filters; 55 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -627,6 +627,97 @@
    "why": "Filed SEC Form D on 2026-10-21 (recent fundraising); offering $5,000,000, $2,500,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
    "fileDate": "2026-10-21",
    "accession": "0001683168-26-008008"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "StreamShip Technologies Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Alec Jay Munce (Executive Officer/Director/Promoter)",
+   "location": "Chicago, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161336/000216133626000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $10,000, $10,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002161336-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Gwaihir Robotics, Corp.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Mason Sneed Hensley (Executive Officer/Director)",
+   "location": "Richmond, VA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161292/000216129226000001/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering Indefinite, $230,000 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002161292-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Boltz, PBC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Gabriele Corso (Executive Officer/Director); Saro Passaro (Director); Jeremy Wohlwend (Executive Officer/Director); Sunil Dhaliwal (Director); Dylan Reid (Director); Andrew Hedin (Director)",
+   "location": "Boston, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161288/000216128826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $119,999,991, $97,359,830 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002161288-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "PRhobe Inc.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Stephen Pearce (Executive Officer/Director); Devinder Singh Bawa (Executive Officer)",
+   "location": "Orinda, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161210/000216121026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $920,000, $920,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002161210-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "LeanBio Therapeutics, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Michal Preminger (Executive Officer/Director); William Hait (Executive Officer/Director)",
+   "location": "Brookline, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160802/000216080226000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering Indefinite, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002160802-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Gale Force Aesthetics, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jayson John Jonsson (Executive Officer/Director)",
+   "location": "Alamo, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159264/000215926426000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $1,000,000, $800,000 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002159264-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Town.com, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Jean-Denis Greze (Executive Officer/Director); Anthony Vincent (Executive Officer/Director); Kirsten Green (Director); Alex Rampell (Director)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2046793/000204679326000005/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $115,174,986, $104,364,967 sold so far; Corporation.",
+   "fileDate": "2026-10-22",
+   "accession": "0002046793-26-000005"
   }
  ]
 }
