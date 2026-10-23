@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-21",
  "windowEnd": "2026-10-23",
- "totalFilings": 572,
- "summary": "Window 2026-10-21 to 2026-10-23: 572 Form D filings found; 136 looked like possible operating companies; 124 already processed in earlier runs (skipped); opened 12; 6 new passed filters; 60 rows in file.",
+ "totalFilings": 727,
+ "summary": "Window 2026-10-21 to 2026-10-23: 727 Form D filings found; 149 looked like possible operating companies; 136 already processed in earlier runs (skipped); opened 13; 4 new passed filters; 64 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -783,6 +783,58 @@
    "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $4,300,000, $1,700,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-23",
    "accession": "0002153673-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Push Matcha, Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Bruno Massote Rohlfs (Executive Officer); Georgios Pucetti Frangulis (Director)",
+   "location": "Wilmington, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161811/000216181126000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $2,000,000, $0 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002161811-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Navispend, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Christopher Gormley (Executive Officer/Director); William Moschella (Executive Officer/Director); David Tamburri (Director); Tal Zaks (Director)",
+   "location": "Wexford, CT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161767/000216176726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $16,312,226, $5,312,226 sold so far; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002161767-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Magic Mouth Co. LLC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Travis Paul Miller (Executive Officer/Director/Promoter); Blake Scott Isaacson (Executive Officer/Director/Promoter)",
+   "location": "Draper, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161608/000216160826000001/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $100,000, $10,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-10-23",
+   "accession": "0002161608-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Belenus Power Group, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Jack Bennett (Executive Officer/Director); Stephen Lynch (Executive Officer/Director)",
+   "location": "Phoenix, AZ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2040665/000204066526000004/",
+   "industry": "Other Energy",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $2,689,998, $2,689,998 sold so far; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002040665-26-000004"
   }
  ]
 }
