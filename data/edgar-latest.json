@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-21",
  "windowEnd": "2026-10-23",
- "totalFilings": 519,
- "summary": "Window 2026-10-21 to 2026-10-23: 519 Form D filings found; 124 looked like possible operating companies; 124 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 54 rows in file.",
+ "totalFilings": 572,
+ "summary": "Window 2026-10-21 to 2026-10-23: 572 Form D filings found; 136 looked like possible operating companies; 124 already processed in earlier runs (skipped); opened 12; 6 new passed filters; 60 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -705,6 +705,84 @@
    "why": "Filed SEC Form D on 2026-10-22 (recent fundraising); offering $31,800,000, $31,800,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-22",
    "accession": "0001437749-26-033231"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Precision Exchange, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Joel Arberman (Executive Officer/Director/Promoter); Paul Bergman (Executive Officer/Director/Promoter)",
+   "location": "Lake Worth Beach, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161660/000216166026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $500,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002161660-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "UpLearn Now, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Cynthia Falkner Williams (Executive Officer/Director); Katherine Bibb Hubbard (Executive Officer/Director); Nadene Lee Stauffer (Executive Officer)",
+   "location": "Bellevue, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161615/000216161526000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $1,000,000, $90,452 sold so far; Other.",
+   "fileDate": "2026-10-23",
+   "accession": "0002161615-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Intent Computing, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Grigore Rosu (Executive Officer/Director/Promoter); Zhixuan Huang (Executive Officer/Director/Promoter); Musab Alturki (Executive Officer/Promoter)",
+   "location": "Chicago, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159817/000215981726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $500,000, $62,500 sold so far; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002159817-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "RAZ Enterprises Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Robert A. Zangardi (Executive Officer/Director); Roshanna Sabaratnam (Executive Officer/Director); Lilac Maddock (Director)",
+   "location": "Los Angeles, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159569/000215956926000002/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $4,041,718, $2,691,719 sold so far; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002159569-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "RevReply, Inc",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Ramsey Al-Ramahi (Executive Officer/Director)",
+   "location": "Las Vegas, NV",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157048/000215704826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $12,000,000, $845,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-23",
+   "accession": "0002157048-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ascoltare Holdings LLC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "John A. Martino II (Executive Officer/Director/Promoter); Stephen DeKanter (Director); Jerry O'Dwyer (Director)",
+   "location": "Boca Raton, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2153673/000215367326000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-23 (recent fundraising); offering $4,300,000, $1,700,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-23",
+   "accession": "0002153673-26-000001"
   }
  ]
 }
