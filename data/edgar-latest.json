@@ -1,7 +1,60 @@
 {
  "windowStart": "2026-10-24",
  "windowEnd": "2026-10-26",
- "totalFilings": 0,
- "summary": "Window 2026-10-24 to 2026-10-26: 0 Form D filings found; 0 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 0 rows in file.",
- "rows": []
+ "totalFilings": 33,
+ "summary": "Window 2026-10-24 to 2026-10-26: 33 Form D filings found; 9 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 9; 4 new passed filters; 4 rows in file.",
+ "rows": [
+  {
+   "source": "SEC Form D",
+   "company": "TCM Life Science Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Ya-Chun Wang (Executive Officer/Director); Huan-Chin Hsu (Director)",
+   "location": "Newark, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160964/000216096426000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-26 (recent fundraising); offering Indefinite, $16,666 sold so far; Corporation.",
+   "fileDate": "2026-10-26",
+   "accession": "0002160964-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Warp Sciences Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Kevin Weil (Executive Officer/Director/Promoter); Balmanohar Paluri (Promoter); Dhanurjay Patil (Executive Officer/Promoter); Solomon Reisberg (Executive Officer/Promoter); Guru Chahal (Director)",
+   "location": "Portola Valley, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160711/000216071126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-26 (recent fundraising); offering $218,459,997, $194,609,879 sold so far; Corporation.",
+   "fileDate": "2026-10-26",
+   "accession": "0002160711-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Navigate Agent, Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Nathan Thomas Cripps (Executive Officer/Director)",
+   "location": "Tacoma, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159244/000215924426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-26 (recent fundraising); offering $130,000, $65,000 sold so far; Corporation.",
+   "fileDate": "2026-10-26",
+   "accession": "0002159244-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "DEALHEAD, INC.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Anthony Bruno (Executive Officer/Director)",
+   "location": "Nashville, TN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2154837/000215483726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-26 (recent fundraising); offering $1,000,000, $200,000 sold so far; Corporation.",
+   "fileDate": "2026-10-26",
+   "accession": "0002154837-26-000001"
+  }
+ ]
 }
