@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-25",
  "windowEnd": "2026-10-27",
- "totalFilings": 200,
- "summary": "Window 2026-10-25 to 2026-10-27: 200 Form D filings found; 48 looked like possible operating companies; 48 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 23 rows in file.",
+ "totalFilings": 254,
+ "summary": "Window 2026-10-25 to 2026-10-27: 254 Form D filings found; 58 looked like possible operating companies; 48 already processed in earlier runs (skipped); opened 10; 7 new passed filters; 30 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -302,6 +302,97 @@
    "why": "Filed SEC Form D on 2026-10-26 (recent fundraising); offering $1,100,000, $1,100,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
    "fileDate": "2026-10-26",
    "accession": "0001213900-26-112367"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Hertha Metals, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Laureen Meroueh (Executive Officer/Director); Rajesh Swaminathan (Director); Ryan Panchadsaram (Director)",
+   "location": "Conroe, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162096/000216209626000002/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $133,649,961, $133,649,961 sold so far; Corporation.",
+   "fileDate": "2026-10-27",
+   "accession": "0002162096-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Hertha Metals, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Laureen Meroueh (Executive Officer/Director); Rajesh Swaminathan (Director); Ryan Panchadsaram (Director)",
+   "location": "Conroe, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162096/000216209626000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $17,674,996, $17,674,996 sold so far; Corporation.",
+   "fileDate": "2026-10-27",
+   "accession": "0002162096-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Photogenik Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Nicole Outkine (Executive Officer/Director); Abraham Sameer (Executive Officer)",
+   "location": "Newark, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162052/000216205226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $10,000, $10,000 sold so far; Corporation.",
+   "fileDate": "2026-10-27",
+   "accession": "0002162052-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Cliffview Power LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Wei Chen (Executive Officer)",
+   "location": "Bothell, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162017/000216201726000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $1,000, $1,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-27",
+   "accession": "0002162017-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ArcLoom Infrastructure LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Devin Steve Pehrson (Executive Officer/Director/Promoter); Dusty Mar Monks (Executive Officer)",
+   "location": "Roosevelt, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161890/000216189026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $65,000, $30,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-27",
+   "accession": "0002161890-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "MOCEAN HOLDINGS Corp",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Joshua Park (Executive Officer/Director); Jeffrey Zalaznick (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161685/000216168526000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $2,580,000, $1,500,000 sold so far; Corporation.",
+   "fileDate": "2026-10-27",
+   "accession": "0002161685-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Playbook Games Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Andrew Adams Russell (Executive Officer/Director); Jeremy Edelblut (Executive Officer/Director)",
+   "location": "Menlo Park, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161185/000216118526000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $750,000, $575,000 sold so far; Corporation.",
+   "fileDate": "2026-10-27",
+   "accession": "0002161185-26-000001"
   }
  ]
 }
