@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-26",
  "windowEnd": "2026-10-28",
- "totalFilings": 421,
- "summary": "Window 2026-10-26 to 2026-10-28: 421 Form D filings found; 104 looked like possible operating companies; 104 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 51 rows in file.",
+ "totalFilings": 472,
+ "summary": "Window 2026-10-26 to 2026-10-28: 472 Form D filings found; 112 looked like possible operating companies; 104 already processed in earlier runs (skipped); opened 8; 5 new passed filters; 56 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -666,6 +666,71 @@
    "why": "Filed SEC Form D on 2026-10-27 (recent fundraising); offering $1,000,000, $75,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
    "fileDate": "2026-10-27",
    "accession": "0001214659-26-013245"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Oncology AI Fleet, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Phyllis Ann Mullen (Executive Officer/Director)",
+   "location": "Lewes, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161717/000216171726000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering $500,000, $0 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-28",
+   "accession": "0002161717-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Bridgeview Innovations, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Lisa Wehrly (Executive Officer/Director); Greg Geiser (Director); Nick Stone (Director); Michael Stone (Director); Robert Frerichs (Director); Steve Meilicke (Executive Officer)",
+   "location": "Redondo Beach, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160751/000216075126000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering Indefinite, $10,250,000 sold so far; Corporation.",
+   "fileDate": "2026-10-28",
+   "accession": "0002160751-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "bina school Inc",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Noam Gerstein (Executive Officer/Director)",
+   "location": "Skokie, IL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2159551/000215955126000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering $6,980,052, $6,980,052 sold so far; revenue: $1,000,001 - $5,000,000; Corporation.",
+   "fileDate": "2026-10-28",
+   "accession": "0002159551-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ClinTrial Research, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Jennifer Laughlin Yevoli (Director); Subhash Gumber (Director); Sam Searcy (Executive Officer/Director); Rishi Reddy (Director); Jay Santoro (Director); Andrew Ritts (Director)",
+   "location": "Holly Springs, NC",
+   "link": "https://www.sec.gov/Archives/edgar/data/2101392/000210139226000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering $500,000, $428,123 sold so far; Corporation.",
+   "fileDate": "2026-10-28",
+   "accession": "0002101392-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Oiselle, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Marguerite McGee Cramer (Executive Officer/Director)",
+   "location": "Seattle, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2097270/000209727026000001/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering $2,000,000, $500,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-28",
+   "accession": "0002097270-26-000001"
   }
  ]
 }
