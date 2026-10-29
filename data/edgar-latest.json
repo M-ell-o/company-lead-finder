@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-27",
  "windowEnd": "2026-10-29",
- "totalFilings": 428,
- "summary": "Window 2026-10-27 to 2026-10-29: 428 Form D filings found; 97 looked like possible operating companies; 97 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 50 rows in file.",
+ "totalFilings": 472,
+ "summary": "Window 2026-10-27 to 2026-10-29: 472 Form D filings found; 102 looked like possible operating companies; 97 already processed in earlier runs (skipped); opened 5; 1 new passed filters; 51 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -653,6 +653,19 @@
    "why": "Filed SEC Form D on 2026-10-28 (recent fundraising); offering $4,000,000, $0 sold so far; Limited Liability Company.",
    "fileDate": "2026-10-28",
    "accession": "0001213900-26-113373"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Scratx Miami LLC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Rodrigo Lascurain Del Paso (Executive Officer/Director); Adrian Melendez Cravioto (Promoter)",
+   "location": "Miami, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161613/000216161326000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-29 (recent fundraising); offering $190,000, $190,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-29",
+   "accession": "0002161613-26-000001"
   }
  ]
 }
