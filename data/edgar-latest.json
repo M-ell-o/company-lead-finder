@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-10-28",
  "windowEnd": "2026-10-30",
- "totalFilings": 438,
- "summary": "Window 2026-10-28 to 2026-10-30: 438 Form D filings found; 83 looked like possible operating companies; 83 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 38 rows in file.",
+ "totalFilings": 0,
+ "summary": "Window 2026-10-28 to 2026-10-30: 0 Form D filings found; 58 looked like possible operating companies; 47 already processed in earlier runs (skipped); opened 11; 8 new passed filters; 46 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -497,6 +497,110 @@
    "why": "Filed SEC Form D on 2026-10-29 (recent fundraising); offering $10,099,999, $10,099,999 sold so far; Corporation.",
    "fileDate": "2026-10-29",
    "accession": "0001231919-26-001510"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "General Compute Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Finn Puklowski (Executive Officer/Director/Promoter); Jason Goodison (Executive Officer/Director); James Palmer (Director)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162999/000216299926000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $132,224,819, $132,224,819 sold so far; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162999-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Now What Publishing LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Michael Weinberger (Executive Officer/Director/Promoter); Denice Kennedy (Director)",
+   "location": "Eloy, AZ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162982/000216298226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $500,000, $25,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162982-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Betvisors, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Matthew Robert Trotta (Executive Officer/Director); Mitchell Patrick Trotta (Promoter); Trotta Enterprises, LLC (Promoter)",
+   "location": "Dover, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162960/000216296026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $150,000, $150,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162960-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ewert Inc",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jonathan Ewert (Executive Officer/Director)",
+   "location": "Devils Lake, ND",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162863/000216286326000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $50,400, $50,350 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162863-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Synomis, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "William P. Luttrell (Executive Officer/Director); Kevin D. Cordell (Director)",
+   "location": "Germantown, TN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162528/000216252826000001/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $2,500,000, $30,000 sold so far; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162528-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Teos Health, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Christopher Gallagher (Executive Officer/Director)",
+   "location": "Austin, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162401/000216240126000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $3,113,000, $3,113,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-10-30",
+   "accession": "0002162401-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "RESOLV TECHNOLOGY, INC.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "David Reissfelder (Executive Officer/Director); Chris Alliegro (Director); Raj Shah (Director); Michael Ellenbogen (Director)",
+   "location": "Manchester, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2082850/000208285026000007/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $9,999,981, $7,171,985 sold so far; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0002082850-26-000007"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "BROWN, BROWN & BROWN, INC.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Andrew Brimer (Executive Officer); GLENN HOWERTON (Director); Robert McElhenney (Director); Charles Day (Director)",
+   "location": "Hudson, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/1981644/000198164426000004/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-10-30 (recent fundraising); offering $8,500,000, $36,441 sold so far; Corporation.",
+   "fileDate": "2026-10-30",
+   "accession": "0001981644-26-000004"
   }
  ]
 }
