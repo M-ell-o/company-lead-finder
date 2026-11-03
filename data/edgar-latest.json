@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-10-31",
- "windowEnd": "2026-11-02",
- "totalFilings": 197,
- "summary": "Window 2026-10-31 to 2026-11-02: 197 Form D filings found; 57 looked like possible operating companies; 27 already processed in earlier runs (skipped); opened 30; 16 new passed filters; 31 rows in file.",
+ "windowStart": "2026-11-01",
+ "windowEnd": "2026-11-03",
+ "totalFilings": 248,
+ "summary": "Window 2026-11-01 to 2026-11-03: 248 Form D filings found; 67 looked like possible operating companies; 57 already processed in earlier runs (skipped); opened 10; 3 new passed filters; 34 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -406,6 +406,45 @@
    "why": "Filed SEC Form D on 2026-11-02 (recent fundraising); offering $2,790,000, $2,790,000 sold so far; Corporation.",
    "fileDate": "2026-11-02",
    "accession": "0001231919-26-001520"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CH Common Ground Group LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Christopher Ross Hatfield (Executive Officer/Promoter)",
+   "location": "San Francisco, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162100/000216210026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-03 (recent fundraising); offering $350,000, $350,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-11-03",
+   "accession": "0002162100-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "0xmd Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Siu Lun Au (Executive Officer/Director/Promoter); Suet Lee Ho (Executive Officer/Director/Promoter); 0x Limited (Promoter)",
+   "location": "Lake Forest, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2111552/000211155226000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-03 (recent fundraising); offering $1,000,000, $50,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-03",
+   "accession": "0002111552-26-000002"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Geomorphic AI",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Mark Sumner (Executive Officer/Director); Shawn Grening (Executive Officer/Director); Jeff Phillips (Director); Emily Sumner (Executive Officer)",
+   "location": "Las Vegas, NV",
+   "link": "https://www.sec.gov/Archives/edgar/data/2130165/000091228226001417/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-03 (recent fundraising); offering $1,500,000, $57,500 sold so far; Corporation.",
+   "fileDate": "2026-11-03",
+   "accession": "0000912282-26-001417"
   }
  ]
 }
