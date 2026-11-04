@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-11-02",
  "windowEnd": "2026-11-04",
- "totalFilings": 444,
- "summary": "Window 2026-11-02 to 2026-11-04: 444 Form D filings found; 107 looked like possible operating companies; 107 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 55 rows in file.",
+ "totalFilings": 507,
+ "summary": "Window 2026-11-02 to 2026-11-04: 507 Form D filings found; 118 looked like possible operating companies; 107 already processed in earlier runs (skipped); opened 11; 5 new passed filters; 60 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -718,6 +718,71 @@
    "why": "Filed SEC Form D on 2026-11-03 (recent fundraising); offering $14,480,000, $14,480,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-11-03",
    "accession": "0000950172-26-000242"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Newcoda, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Betina Kitzler (Executive Officer/Director); Alberto Gross (Executive Officer/Director); Jose Ignacio Cordero Ehrenberg (Executive Officer/Director); Jose Ignacio Cordero Lang (Executive Officer/Director)",
+   "location": "Miami, FL",
+   "link": "https://www.sec.gov/Archives/edgar/data/2162347/000216234726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-04 (recent fundraising); offering $1,800,000, $1,265,000 sold so far; Corporation.",
+   "fileDate": "2026-11-04",
+   "accession": "0002162347-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Sigma5 Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Kevin Bundy (Executive Officer/Director/Promoter); Jay Bartels (Executive Officer/Director/Promoter); Douglas Lee (Executive Officer); Matthew DeMartino (Executive Officer)",
+   "location": "Santa Cruz, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161554/000216155426000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-04 (recent fundraising); offering $500,000, $270,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-04",
+   "accession": "0002161554-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Datifact Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Jeffrey Martin Kimbrough (Executive Officer/Director); Jonathan Dykstra (Executive Officer)",
+   "location": "Orange, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2144290/000214429026000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-04 (recent fundraising); offering $420,000, $250,000 sold so far; Corporation.",
+   "fileDate": "2026-11-04",
+   "accession": "0002144290-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "SIMSALASIM INC.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Lars Hinrichs (Executive Officer/Director); Tillman Zschucke (Executive Officer/Director); Kurosch Habibi (Executive Officer/Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2061628/000206162826000003/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-04 (recent fundraising); offering Indefinite, $11,452,176 sold so far; Corporation.",
+   "fileDate": "2026-11-04",
+   "accession": "0002061628-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "EVENERGI LABS INC.",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "Daniel Hilson (Executive Officer/Director); Geoff Eisenberg (Director); Anthony Brasher (Director); Brendan Bell (Director); Jordan Ramer (Director)",
+   "location": "Ann Arbor, MI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2001507/000200150726000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-04 (recent fundraising); offering $5,000,000, $4,010,000 sold so far; Corporation.",
+   "fileDate": "2026-11-04",
+   "accession": "0002001507-26-000001"
   }
  ]
 }
