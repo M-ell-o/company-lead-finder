@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-11-07",
- "windowEnd": "2026-11-09",
- "totalFilings": 186,
- "summary": "Window 2026-11-07 to 2026-11-09: 186 Form D filings found; 50 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 50; 27 new passed filters; 27 rows in file.",
+ "windowStart": "2026-11-08",
+ "windowEnd": "2026-11-10",
+ "totalFilings": 191,
+ "summary": "Window 2026-11-08 to 2026-11-10: 191 Form D filings found; 51 looked like possible operating companies; 50 already processed in earlier runs (skipped); opened 1; 1 new passed filters; 28 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -354,6 +354,19 @@
    "why": "Filed SEC Form D on 2026-11-09 (recent fundraising); offering $319,145,065, $4,146,514 sold so far; Limited Liability Company.",
    "fileDate": "2026-11-09",
    "accession": "0001123292-26-001498"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Belle Meade Spirits, LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Samuel McCullough Keith (Executive Officer)",
+   "location": "Nashville, TN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2041718/000204171826000003/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-09 (recent fundraising); offering $10,000,000, $5,900,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-09",
+   "accession": "0002041718-26-000003"
   }
  ]
 }
