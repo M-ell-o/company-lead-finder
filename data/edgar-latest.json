@@ -2,7 +2,7 @@
  "windowStart": "2026-11-12",
  "windowEnd": "2026-11-14",
  "totalFilings": 672,
- "summary": "Window 2026-11-12 to 2026-11-14: 672 Form D filings found; 164 looked like possible operating companies; 146 already processed in earlier runs (skipped); opened 18; 9 new passed filters; 71 rows in file.",
+ "summary": "Window 2026-11-12 to 2026-11-14: 672 Form D filings found; 164 looked like possible operating companies; 164 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 71 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
