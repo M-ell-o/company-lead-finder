@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-11-11",
- "windowEnd": "2026-11-13",
- "totalFilings": 574,
- "summary": "Window 2026-11-11 to 2026-11-13: 574 Form D filings found; 146 looked like possible operating companies; 92 already processed in earlier runs (skipped); opened 54; 29 new passed filters; 62 rows in file.",
+ "windowStart": "2026-11-12",
+ "windowEnd": "2026-11-14",
+ "totalFilings": 672,
+ "summary": "Window 2026-11-12 to 2026-11-14: 672 Form D filings found; 164 looked like possible operating companies; 146 already processed in earlier runs (skipped); opened 18; 9 new passed filters; 71 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -809,6 +809,123 @@
    "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $600,000, $350,000 sold so far; revenue: No Revenues; Corporation.",
    "fileDate": "2026-11-13",
    "accession": "0001199835-26-000398"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Philo Film LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Thomas Ray Christensen (Director); Ronald Shepherd Tanner (Director)",
+   "location": "Farmington, UT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165240/000216524026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $1,000,000, $100,000 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-11-13",
+   "accession": "0002165240-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "226 LAS FLORES, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "David Medina (Executive Officer); Vladimir Arutyunyan (Executive Officer); Efren Cadena (Executive Officer)",
+   "location": "Glendale, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165098/000216509826000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $380,000, $0 sold so far; revenue: No Revenues; Limited Liability Company.",
+   "fileDate": "2026-11-13",
+   "accession": "0002165098-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "St. Rose Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Belinda Frazer (Executive Officer/Director)",
+   "location": "Columbus, OH",
+   "link": "https://www.sec.gov/Archives/edgar/data/2164608/000216460826000001/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $750,000, $150,000 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0002164608-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Arterra Pet Science, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Jason Charms (Executive Officer); Jonathan Willbanks (Director); Genevieve Gilbreath (Director)",
+   "location": "Leander, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2164522/000216452226000001/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $1,600,000, $1,578,575 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0002164522-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "SSM Exchange Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Samuel Harrison Stone (Executive Officer/Director)",
+   "location": "Huntington Woods, MI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2164262/000216426226000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering Indefinite, $25,000 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0002164262-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Kunin Technologies Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Daniel Rau (Executive Officer/Director)",
+   "location": "Chattanooga, TN",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160820/000216082026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $16,056,541, $15,185,542 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0002160820-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "inHarmony Legacy Holdings, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Dominic A Carnevale (Executive Officer/Director); Craig Goldberg (Executive Officer/Director)",
+   "location": "Las Vegas, NV",
+   "link": "https://www.sec.gov/Archives/edgar/data/2158641/000215864126000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $300,000, $300,000 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0002158641-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CNG 2026 School Vehicles I, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Donald Lee Dillingham (Executive Officer/Director/Promoter); LLC Green Energy Solutions (Promoter); LLC CNG Associates (Director/Promoter)",
+   "location": "Oklahoma City, OK",
+   "link": "https://www.sec.gov/Archives/edgar/data/2111452/000211145226000001/",
+   "industry": "Other Energy",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering Indefinite, $10,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-13",
+   "accession": "0002111452-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ora Biomedical, Inc.",
+   "yearFounded": "2022",
+   "teamSize": "",
+   "people": "Benjamin Blue (Executive Officer/Director/Promoter); Matthew Kaeberlein (Director/Promoter); John Sabey (Director); Tim Engle (Director)",
+   "location": "Seattle, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1927878/000192787826000006/",
+   "industry": "Biotechnology",
+   "why": "Filed SEC Form D on 2026-11-13 (recent fundraising); offering $1,000,000, $205,000 sold so far; Corporation.",
+   "fileDate": "2026-11-13",
+   "accession": "0001927878-26-000006"
   }
  ]
 }
