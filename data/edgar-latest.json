@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-11-14",
- "windowEnd": "2026-11-16",
- "totalFilings": 239,
- "summary": "Window 2026-11-14 to 2026-11-16: 239 Form D filings found; 64 looked like possible operating companies; 0 already processed in earlier runs (skipped); opened 64; 27 new passed filters; 27 rows in file.",
+ "windowStart": "2026-11-15",
+ "windowEnd": "2026-11-17",
+ "totalFilings": 255,
+ "summary": "Window 2026-11-15 to 2026-11-17: 255 Form D filings found; 72 looked like possible operating companies; 64 already processed in earlier runs (skipped); opened 8; 3 new passed filters; 30 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -354,6 +354,45 @@
    "why": "Filed SEC Form D on 2026-11-16 (recent fundraising); offering $3,000,000, $1,500,003 sold so far; Corporation.",
    "fileDate": "2026-11-16",
    "accession": "0001493152-26-052102"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Mercury Parent Holdings, Inc.",
+   "yearFounded": "2021",
+   "teamSize": "",
+   "people": "Fayez Muhtadie (Director); Nikhil Dixit (Director); Robert Guillocheau (Director); David Musto (Director); Marc Mehlman (Executive Officer); Daniel Sawyer (Director)",
+   "location": "Dresher, PA",
+   "link": "https://www.sec.gov/Archives/edgar/data/1871707/000187170726000003/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-16 (recent fundraising); offering Indefinite, $0 sold so far; Corporation.",
+   "fileDate": "2026-11-16",
+   "accession": "0001871707-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Stripes Beauty, LLC",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Cara Muldowney (Executive Officer)",
+   "location": "Beverly Hills, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165371/000140508626000970/",
+   "industry": "Retailing",
+   "why": "Filed SEC Form D on 2026-11-16 (recent fundraising); offering $5,000,000, $5,000,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-16",
+   "accession": "0001405086-26-000970"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "OSP Certerra Management Aggregator, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Joe Benavides (Director); Addison Nordin (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165325/000095017226000256/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-16 (recent fundraising); offering $54,271,762, $53,271,762 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-16",
+   "accession": "0000950172-26-000256"
   }
  ]
 }
