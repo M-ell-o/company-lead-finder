@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-11-15",
- "windowEnd": "2026-11-17",
- "totalFilings": 440,
- "summary": "Window 2026-11-15 to 2026-11-17: 440 Form D filings found; 113 looked like possible operating companies; 72 already processed in earlier runs (skipped); opened 41; 22 new passed filters; 52 rows in file.",
+ "windowStart": "2026-11-16",
+ "windowEnd": "2026-11-18",
+ "totalFilings": 493,
+ "summary": "Window 2026-11-16 to 2026-11-18: 493 Form D filings found; 123 looked like possible operating companies; 113 already processed in earlier runs (skipped); opened 10; 7 new passed filters; 59 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -679,6 +679,97 @@
    "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering $3,812,000, $3,812,000 sold so far; Limited Liability Company.",
    "fileDate": "2026-11-17",
    "accession": "0001909320-26-000008"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "North Iron Mitten Subordinated Debt I LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Shaun P. Stimpson (Director)",
+   "location": "Norwell, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165510/000216551026000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering Indefinite, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-17",
+   "accession": "0002165510-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "North Iron Mitten Non-Participating Preferred II LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Shaun P. Stimpson (Director)",
+   "location": "Norwell, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165391/000216539126000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering Indefinite, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-17",
+   "accession": "0002165391-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Recipe Intelligence, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Yuzhao Ni (Executive Officer/Director)",
+   "location": "Cupertino, CA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2165223/000216522326000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering Indefinite, $300,000 sold so far; Corporation.",
+   "fileDate": "2026-11-17",
+   "accession": "0002165223-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Toy Shack Flathead Lake Owner, LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Jay Dempsey (Executive Officer)",
+   "location": "Lake Havasu City, AZ",
+   "link": "https://www.sec.gov/Archives/edgar/data/2163036/000216303626000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering $5,500,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-17",
+   "accession": "0002163036-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Custom Trucks NW, LLC",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Christopher Bingham (Executive Officer/Promoter)",
+   "location": "Puyallup, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2160724/000216072426000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering $3,095,000, $3,095,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-17",
+   "accession": "0002160724-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Arriba Foods, LLC",
+   "yearFounded": "2023",
+   "teamSize": "",
+   "people": "MANUEL VALDES (Executive Officer); ALBERTO A VALDES (Executive Officer)",
+   "location": "Houston, TX",
+   "link": "https://www.sec.gov/Archives/edgar/data/2023825/000202382526000004/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering $4,000,000, $387,559 sold so far; revenue: $5,000,001 - $25,000,000; Limited Liability Company.",
+   "fileDate": "2026-11-17",
+   "accession": "0002023825-26-000004"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Finch Legal Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Viraj Bindra (Executive Officer/Director/Promoter); Benjamin Weems (Executive Officer/Director/Promoter); Meera Clark (Director); Alex Nichols (Director)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2073379/000123191926001591/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-17 (recent fundraising); offering $85,029,663, $75,487,177 sold so far; Corporation.",
+   "fileDate": "2026-11-17",
+   "accession": "0001231919-26-001591"
   }
  ]
 }
