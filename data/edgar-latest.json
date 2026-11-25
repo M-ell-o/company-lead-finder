@@ -1,8 +1,8 @@
 {
- "windowStart": "2026-11-22",
- "windowEnd": "2026-11-24",
- "totalFilings": 518,
- "summary": "Window 2026-11-22 to 2026-11-24: 518 Form D filings found; 128 looked like possible operating companies; 77 already processed in earlier runs (skipped); opened 51; 17 new passed filters; 46 rows in file.",
+ "windowStart": "2026-11-23",
+ "windowEnd": "2026-11-25",
+ "totalFilings": 528,
+ "summary": "Window 2026-11-23 to 2026-11-25: 528 Form D filings found; 135 looked like possible operating companies; 128 already processed in earlier runs (skipped); opened 7; 4 new passed filters; 50 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -601,6 +601,58 @@
    "why": "Filed SEC Form D on 2026-11-24 (recent fundraising); offering $3,000,000, $888,000 sold so far; revenue: No Revenues; Corporation.",
    "fileDate": "2026-11-24",
    "accession": "0001493152-26-053885"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Cognitive Reach Labs, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Satya Sidhartha Parija (Executive Officer/Director/Promoter)",
+   "location": "Dover, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2157865/000215786526000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-24 (recent fundraising); offering $40,000, $40,000 sold so far; Corporation.",
+   "fileDate": "2026-11-24",
+   "accession": "0002157865-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ZoneStay, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Matthew Ramsey (Executive Officer/Director); Doug Fay (Director); James Ramsey (Director)",
+   "location": "Branson, MO",
+   "link": "https://www.sec.gov/Archives/edgar/data/2156941/000215694126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-24 (recent fundraising); offering $800,000, $133,747 sold so far; Corporation.",
+   "fileDate": "2026-11-24",
+   "accession": "0002156941-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Physical Dream, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Maxime Plescia-Buchi (Executive Officer/Director)",
+   "location": "Wilton, CT",
+   "link": "https://www.sec.gov/Archives/edgar/data/2084046/000208404626000003/",
+   "industry": "Manufacturing",
+   "why": "Filed SEC Form D on 2026-11-24 (recent fundraising); offering $1,500,000, $150,000 sold so far; Corporation.",
+   "fileDate": "2026-11-24",
+   "accession": "0002084046-26-000003"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "CorVita, Inc.",
+   "yearFounded": "2024",
+   "teamSize": "",
+   "people": "Angela Betty Buckalew (Executive Officer/Promoter)",
+   "location": "Cincinnati, OH",
+   "link": "https://www.sec.gov/Archives/edgar/data/2051333/000205133326000006/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-11-24 (recent fundraising); offering $1,100,000, $100,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-24",
+   "accession": "0002051333-26-000006"
   }
  ]
 }
