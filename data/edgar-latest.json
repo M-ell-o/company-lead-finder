@@ -1,8 +1,8 @@
 {
  "windowStart": "2026-11-25",
  "windowEnd": "2026-11-27",
- "totalFilings": 304,
- "summary": "Window 2026-11-25 to 2026-11-27: 304 Form D filings found; 60 looked like possible operating companies; 60 already processed in earlier runs (skipped); opened 0; 0 new passed filters; 34 rows in file.",
+ "totalFilings": 426,
+ "summary": "Window 2026-11-25 to 2026-11-27: 426 Form D filings found; 78 looked like possible operating companies; 60 already processed in earlier runs (skipped); opened 18; 9 new passed filters; 43 rows in file.",
  "rows": [
   {
    "source": "SEC Form D",
@@ -445,6 +445,123 @@
    "why": "Filed SEC Form D on 2026-11-25 (recent fundraising); offering $2,000,000, $350,000 sold so far; revenue: $1,000,001 - $5,000,000; Corporation.",
    "fileDate": "2026-11-25",
    "accession": "0002167001-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Lymphatix, Inc.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Lee Broderick Bockus (Executive Officer/Director/Promoter); Joseph R. Armstrong (Executive Officer)",
+   "location": "Seattle, WA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2167344/000216734426000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $150,000, $25,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002167344-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "SeatMate Social, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Laura Beth Elkman (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2167271/000216727126000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering Indefinite, $90,000 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002167271-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Bible Bricks Studios LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Sean Sutton (Executive Officer)",
+   "location": "Wilmington, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2166905/000216690526000001/",
+   "industry": "Other",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $300,000, $0 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-27",
+   "accession": "0002166905-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "RightHoldings Group Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Shreya Vohora (Executive Officer/Director); Michelle Martin (Executive Officer/Director); Kalin Harvey (Executive Officer)",
+   "location": "Dover, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2166738/000216673826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $28,500, $28,500 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002166738-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "PODGO, Inc.",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Tristan Capes-Davis (Executive Officer/Director); Bradley Firestone (Executive Officer); Zach Steele (Executive Officer)",
+   "location": "New York, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2166688/000216668826000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $2,000,000, $150,000 sold so far; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002166688-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Avectic Corp",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Ryan Keith Kamykowski (Executive Officer/Director); Benjamin Adam Downs (Executive Officer)",
+   "location": "Clarkston, MI",
+   "link": "https://www.sec.gov/Archives/edgar/data/2166411/000216641126000001/",
+   "industry": "Other Health Care",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $50,000, $50,000 sold so far; revenue: No Revenues; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002166411-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "ARKS Bespoke Holdings LLC",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "ARKS Legacy Holdings LLC (Director); Ryan Coleman (Executive Officer); Klevrin Sitohang (Executive Officer); Shyam Patel (Executive Officer)",
+   "location": "Brooklyn, NY",
+   "link": "https://www.sec.gov/Archives/edgar/data/2163147/000216314726000001/",
+   "industry": "Business Services",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $4,800,000, $4,800,000 sold so far; Limited Liability Company.",
+   "fileDate": "2026-11-27",
+   "accession": "0002163147-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Ube, Inc. /DE",
+   "yearFounded": "2026",
+   "teamSize": "",
+   "people": "Orkun Duman (Executive Officer/Director/Promoter); William Alan Krueger (Director)",
+   "location": "Wilmington, DE",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161800/000216180026000001/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering Indefinite, $0 sold so far; revenue: $1 - $1,000,000; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002161800-26-000001"
+  },
+  {
+   "source": "SEC Form D",
+   "company": "Platform Golf, Ltd.",
+   "yearFounded": "2025",
+   "teamSize": "",
+   "people": "Thomas Hackett (Executive Officer/Director); Rory Flanagan (Executive Officer/Director); James McElligott (Executive Officer); Keith Bank (Director); Michael Rossiter (Director); Brian Elliott (Director)",
+   "location": "Needham, MA",
+   "link": "https://www.sec.gov/Archives/edgar/data/2128177/000212817726000002/",
+   "industry": "Other Technology",
+   "why": "Filed SEC Form D on 2026-11-27 (recent fundraising); offering $3,000,000, $975,000 sold so far; Corporation.",
+   "fileDate": "2026-11-27",
+   "accession": "0002128177-26-000002"
   }
  ]
 }
